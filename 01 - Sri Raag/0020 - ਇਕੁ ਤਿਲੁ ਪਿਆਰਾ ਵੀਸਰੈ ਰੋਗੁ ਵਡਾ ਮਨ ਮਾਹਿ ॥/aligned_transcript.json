@@ -1,0 +1,261 @@
+{
+  "audio_file": "015 C Pb.mp3",
+  "sections": [
+    {
+      "title": "ਸਿਰੀਰਾਗੁ",
+      "section_id": "section-1",
+      "start_time": 1728,
+      "end_time": 8118,
+      "verified": true,
+      "line_id": "GJND"
+    },
+    {
+      "title": "ਮਹਲਾ ਪਹਿਲਾ",
+      "section_id": "section-2",
+      "start_time": 8118,
+      "end_time": 13629,
+      "verified": true,
+      "line_id": null
+    },
+    {
+      "title": "ਆ।",
+      "section_id": "section-3",
+      "start_time": 13629,
+      "end_time": 19092,
+      "verified": true,
+      "line_id": null
+    },
+    {
+      "title": "ਇਕੁ ਤਿਲੁ ਪਿਆਰਾ ਵੀਸਰੈ",
+      "section_id": "section-4",
+      "start_time": 32161,
+      "end_time": 39047,
+      "verified": true,
+      "line_id": "GE98"
+    },
+    {
+      "title": "ਰੋਗੁ ਵਡਾ ਮਨ ਮਾਹਿ",
+      "section_id": "section-5",
+      "start_time": 39047,
+      "end_time": 45611,
+      "verified": true,
+      "line_id": "GE98"
+    },
+    {
+      "title": "ਕਿਉ ਦਰਗਹ ਪਤਿ ਪਾਈਐ",
+      "section_id": "section-6",
+      "start_time": 45611,
+      "end_time": 52295,
+      "verified": true,
+      "line_id": "G2KR"
+    },
+    {
+      "title": "ਜਾ ਹਰਿ ਨ ਵਸੈ ਮਨ ਮਾਹਿ",
+      "section_id": "section-7",
+      "start_time": 52295,
+      "end_time": 59145,
+      "verified": true,
+      "line_id": "G2KR"
+    },
+    {
+      "title": "ਗੁਰਿ ਮਿਲਿਐ ਸੁਖੁ ਪਾਈਐ",
+      "section_id": "section-8",
+      "start_time": 59145,
+      "end_time": 65790,
+      "verified": true,
+      "line_id": "476A"
+    },
+    {
+      "title": "ਅਗਨਿ ਮਰੈ ਗੁਣ ਮਾਹਿ",
+      "section_id": "section-9",
+      "start_time": 65790,
+      "end_time": 72869,
+      "verified": true,
+      "line_id": "476A"
+    },
+    {
+      "title": "ਮਨ ਰੇ, ਅਹਿਨਿਸਿ ਹਰਿ ਗੁਣ ਸਾਰਿ।",
+      "section_id": "section-10",
+      "start_time": 78931,
+      "end_time": 85678,
+      "verified": true,
+      "line_id": "NPLQ"
+    },
+    {
+      "title": "ਜਿਨ ਖਿਨੁ ਪਲੁ ਨਾਮੁ ਨ ਵੀਸਰੈ",
+      "section_id": "section-11",
+      "start_time": 85678,
+      "end_time": 92286,
+      "verified": true,
+      "line_id": "EJ1E"
+    },
+    {
+      "title": "ਤੇ ਜਨ ਵਿਰਲੇ ਸੰਸਾਰਿ ਰਹਾਉ",
+      "section_id": "section-12",
+      "start_time": 92286,
+      "end_time": 100596,
+      "verified": true,
+      "line_id": "EJ1E"
+    },
+    {
+      "title": "ਜੋਤੀ ਜੋਤਿ ਮਿਲਾਈਐ",
+      "section_id": "section-13",
+      "start_time": 105885,
+      "end_time": 112728,
+      "verified": true,
+      "line_id": "B5D6"
+    },
+    {
+      "title": "ਸੁਰਤੀ ਸੁਰਤਿ ਸੰਜੋਗੁ",
+      "section_id": "section-14",
+      "start_time": 112728,
+      "end_time": 119283,
+      "verified": true,
+      "line_id": "B5D6"
+    },
+    {
+      "title": "ਹਿੰਸਾ ਹਉਮੈ ਗਤੁ ਗਏ",
+      "section_id": "section-15",
+      "start_time": 119283,
+      "end_time": 126138,
+      "verified": true,
+      "line_id": "55QS"
+    },
+    {
+      "title": "ਨਾਹੀ ਸਹਸਾ ਸੋਗੁ",
+      "section_id": "section-16",
+      "start_time": 126138,
+      "end_time": 132951,
+      "verified": true,
+      "line_id": "55QS"
+    },
+    {
+      "title": "ਗੁਰਮੁਖਿ ਜਿਸੁ ਹਰਿ ਮਨਿ ਵਸੈ",
+      "section_id": "section-17",
+      "start_time": 132951,
+      "end_time": 139393,
+      "verified": true,
+      "line_id": "2MG6"
+    },
+    {
+      "title": "ਤਿਸੁ ਮੇਲੇ ਗੁਰੁ ਸੰਜੋਗੁ",
+      "section_id": "section-18",
+      "start_time": 139393,
+      "end_time": 146574,
+      "verified": true,
+      "line_id": "2MG6"
+    },
+    {
+      "title": "ਕਾਇਆ ਕਾਮਣਿ ਜੇ ਕਰੀ",
+      "section_id": "section-19",
+      "start_time": 153285,
+      "end_time": 160088,
+      "verified": true,
+      "line_id": "V4UP"
+    },
+    {
+      "title": "ਭੋਗੇ ਭੋਗਣਹਾਰੁ",
+      "section_id": "section-20",
+      "start_time": 160088,
+      "end_time": 166822,
+      "verified": true,
+      "line_id": "V4UP"
+    },
+    {
+      "title": "ਤਿਸੁ ਸਿਉ ਨੇਹੁ ਨ ਕੀਜਈ",
+      "section_id": "section-21",
+      "start_time": 166822,
+      "end_time": 173227,
+      "verified": true,
+      "line_id": "QWAE"
+    },
+    {
+      "title": "ਜੋ ਦੀਸੈ ਚਲਣਹਾਰੁ",
+      "section_id": "section-22",
+      "start_time": 173227,
+      "end_time": 180549,
+      "verified": true,
+      "line_id": "QWAE"
+    },
+    {
+      "title": "ਗੁਰਮੁਖਿ ਰਵਹਿ ਸੋਹਾਗਣੀ",
+      "section_id": "section-23",
+      "start_time": 180549,
+      "end_time": 186917,
+      "verified": true,
+      "line_id": "AYQS"
+    },
+    {
+      "title": "ਸੋ ਪ੍ਰਭੁ ਸੇਜ ਭਤਾਰੁ",
+      "section_id": "section-24",
+      "start_time": 186917,
+      "end_time": 194309,
+      "verified": true,
+      "line_id": "AYQS"
+    },
+    {
+      "title": "ਚਾਰੇ ਅਗਨਿ ਨਿਵਾਰਿ ਮਰੁ",
+      "section_id": "section-25",
+      "start_time": 200785,
+      "end_time": 207529,
+      "verified": true,
+      "line_id": "2Z9E"
+    },
+    {
+      "title": "ਗੁਰਮੁਖਿ ਹਰਿ ਜਲੁ ਪਾਇ",
+      "section_id": "section-26",
+      "start_time": 207529,
+      "end_time": 214435,
+      "verified": true,
+      "line_id": "2Z9E"
+    },
+    {
+      "title": "ਅੰਤਰਿ ਕਮਲੁ ਪ੍ਰਗਾਸਿਆ",
+      "section_id": "section-27",
+      "start_time": 214435,
+      "end_time": 221437,
+      "verified": true,
+      "line_id": "BEMC"
+    },
+    {
+      "title": "ਅੰਮ੍ਰਿਤੁ ਭਰਿਆ ਅਘਾਇ",
+      "section_id": "section-28",
+      "start_time": 221437,
+      "end_time": 228113,
+      "verified": true,
+      "line_id": "BEMC"
+    },
+    {
+      "title": "ਨਾਨਕ ਸਤਗੁਰੁ ਮੀਤੁ ਕਰਿ।",
+      "section_id": "section-29",
+      "start_time": 228113,
+      "end_time": 234451,
+      "verified": true,
+      "line_id": "GNHS"
+    },
+    {
+      "title": "ਸਚੁ ਪਾਵਹਿ ਦਰਗਹ ਜਾਇ।",
+      "section_id": "section-30",
+      "start_time": 234451,
+      "end_time": 241725,
+      "verified": true,
+      "line_id": "GNHS"
+    },
+    {
+      "title": "ਨਾਨਕ ਸਤਗੁਰੁ ਮੀਤੁ ਕਰਿ",
+      "section_id": "section-31",
+      "start_time": 255141,
+      "end_time": 261382,
+      "verified": true,
+      "line_id": "GNHS"
+    },
+    {
+      "title": "ਸਚੁ ਪਾਵਹਿ ਦਰਗਹ ਜਾਇ",
+      "section_id": "section-32",
+      "start_time": 261382,
+      "end_time": 269955,
+      "verified": true,
+      "line_id": "GNHS"
+    }
+  ]
+}
