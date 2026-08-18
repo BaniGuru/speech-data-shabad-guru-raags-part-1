@@ -1,0 +1,521 @@
+{
+  "audio_file": "0209 A Pb.mp3",
+  "sections": [
+    {
+      "section_id": "section-00001",
+      "start_time": 4.855,
+      "end_time": 11.375,
+      "transcript": "ਸਲੋਕੁ"
+    },
+    {
+      "section_id": "section-00002",
+      "start_time": 23.065,
+      "end_time": 31.645,
+      "transcript": "ਸੰਤ ਸਰਨਿ ਜੋ ਜਨੁ ਪਰੈ"
+    },
+    {
+      "section_id": "section-00003",
+      "start_time": 32.055,
+      "end_time": 39.555,
+      "transcript": "ਸੋ ਜਨੁ ਉਧਰਨਹਾਰ"
+    },
+    {
+      "section_id": "section-00004",
+      "start_time": 40.946,
+      "end_time": 49.441,
+      "transcript": "ਸੰਤ ਕੀ ਨਿੰਦਾ ਨਾਨਕਾ"
+    },
+    {
+      "section_id": "section-00005",
+      "start_time": 49.441,
+      "end_time": 61.345,
+      "transcript": "ਬਹੁਰਿ ਬਹੁਰਿ ਅਵਤਾਰ ਅਸਟਪਦੀ"
+    },
+    {
+      "section_id": "section-00006",
+      "start_time": 71.795,
+      "end_time": 80.825,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਆਰਜਾ ਘਟੈ"
+    },
+    {
+      "section_id": "section-00007",
+      "start_time": 81.225,
+      "end_time": 90.445,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਜਮ ਤੇ ਨਹੀ ਛੁਟੈ"
+    },
+    {
+      "section_id": "section-00008",
+      "start_time": 90.665,
+      "end_time": 99.335,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਸੁਖੁ ਸਭੁ ਜਾਇ"
+    },
+    {
+      "section_id": "section-00009",
+      "start_time": 99.845,
+      "end_time": 108.475,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਨਰਕ ਮਹਿ ਪਾਇ"
+    },
+    {
+      "section_id": "section-00010",
+      "start_time": 108.885,
+      "end_time": 117.395,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਮਤਿ ਹੋਇ ਮਲੀਨ"
+    },
+    {
+      "section_id": "section-00011",
+      "start_time": 117.795,
+      "end_time": 126.365,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਸੋਭਾ ਤੇ ਹੀਨ"
+    },
+    {
+      "section_id": "section-00012",
+      "start_time": 126.745,
+      "end_time": 135.135,
+      "transcript": "ਸੰਤ ਕੇ ਹਤੇ ਕਉ, ਰਖੈ ਨ ਕੋਇ"
+    },
+    {
+      "section_id": "section-00013",
+      "start_time": 135.675,
+      "end_time": 144.295,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਥਾਨ ਭ੍ਰਸਟੁ ਹੋਇ"
+    },
+    {
+      "section_id": "section-00014",
+      "start_time": 144.575,
+      "end_time": 152.935,
+      "transcript": "ਸੰਤ ਕ੍ਰਿਪਾਲ, ਕ੍ਰਿਪਾ ਜੇ ਕਰੈ"
+    },
+    {
+      "section_id": "section-00015",
+      "start_time": 153.395,
+      "end_time": 162.417,
+      "transcript": "ਨਾਨਕ ਸੰਤਸੰਗਿ, ਨਿੰਦਕੁ ਭੀ ਤਰੈ"
+    },
+    {
+      "section_id": "section-00016",
+      "start_time": 171.035,
+      "end_time": 179.725,
+      "transcript": "ਸੰਤ ਕੇ ਦੂਖਨ ਤੇ, ਮੁਖੁ ਭਵੈ"
+    },
+    {
+      "section_id": "section-00017",
+      "start_time": 179.725,
+      "end_time": 188.84,
+      "transcript": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ, ਕਾਗ ਜਿਉ ਲਵੈ"
+    },
+    {
+      "section_id": "section-00018",
+      "start_time": 188.84,
+      "end_time": 197.18,
+      "transcript": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ, ਸਰਪ ਜੋਨਿ ਪਾਇ"
+    },
+    {
+      "section_id": "section-00019",
+      "start_time": 197.18,
+      "end_time": 205.975,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਤ੍ਰਿਗਦ ਜੋਨਿ ਕਿਰਮਾਇ"
+    },
+    {
+      "section_id": "section-00020",
+      "start_time": 206.205,
+      "end_time": 215.04,
+      "transcript": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ, ਤ੍ਰਿਸਨਾ ਮਹਿ ਜਲੈ"
+    },
+    {
+      "section_id": "section-00021",
+      "start_time": 215.04,
+      "end_time": 223.51,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਸਭੁ ਕੋ ਛਲੈ"
+    },
+    {
+      "section_id": "section-00022",
+      "start_time": 223.51,
+      "end_time": 231.685,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਤੇਜੁ ਸਭੁ ਜਾਇ"
+    },
+    {
+      "section_id": "section-00023",
+      "start_time": 232.185,
+      "end_time": 240.73,
+      "transcript": "ਸੰਤ ਕੈ ਦੂਖਨਿ, ਨੀਚੁ ਨੀਚਾਇ"
+    },
+    {
+      "section_id": "section-00024",
+      "start_time": 240.73,
+      "end_time": 249.295,
+      "transcript": "ਸੰਤ ਦੋਖੀ ਕਾ, ਥਾਉ ਕੋ ਨਾਹਿ"
+    },
+    {
+      "section_id": "section-00025",
+      "start_time": 249.295,
+      "end_time": 258.145,
+      "transcript": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ, ਤਾ ਓਇ ਭੀ ਗਤਿ ਪਾਹਿ"
+    },
+    {
+      "section_id": "section-00026",
+      "start_time": 266.685,
+      "end_time": 274.985,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਮਹਾ ਅਤਤਾਈ"
+    },
+    {
+      "section_id": "section-00027",
+      "start_time": 275.475,
+      "end_time": 283.975,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਖਿਨੁ ਟਿਕਨੁ ਨ ਪਾਈ"
+    },
+    {
+      "section_id": "section-00028",
+      "start_time": 284.125,
+      "end_time": 292.355,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਮਹਾ ਹਤਿਆਰਾ"
+    },
+    {
+      "section_id": "section-00029",
+      "start_time": 292.88,
+      "end_time": 301.055,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਪਰਮੇਸੁਰਿ ਮਾਰਾ"
+    },
+    {
+      "section_id": "section-00030",
+      "start_time": 301.055,
+      "end_time": 310.04,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਰਾਜ ਤੇ ਹੀਨੁ"
+    },
+    {
+      "section_id": "section-00031",
+      "start_time": 310.04,
+      "end_time": 318.455,
+      "transcript": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ, ਦੁਖੀਆ ਅਰੁ ਦੀਨੁ"
+    },
+    {
+      "section_id": "section-00032",
+      "start_time": 318.455,
+      "end_time": 326.865,
+      "transcript": "ਸੰਤ ਕੇ ਨਿੰਦਕ ਕਉ, ਸਰਬ ਰੋਗ"
+    },
+    {
+      "section_id": "section-00033",
+      "start_time": 327.2,
+      "end_time": 335.84,
+      "transcript": "ਸੰਤ ਕੇ ਨਿੰਦਕ ਕਉ, ਸਦਾ ਬਿਜੋਗ"
+    },
+    {
+      "section_id": "section-00034",
+      "start_time": 335.84,
+      "end_time": 343.995,
+      "transcript": "ਸੰਤ ਕੀ ਨਿੰਦਾ, ਦੋਖ ਮਹਿ ਦੋਖੁ"
+    },
+    {
+      "section_id": "section-00035",
+      "start_time": 344.445,
+      "end_time": 353.165,
+      "transcript": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ, ਤਾ ਉਸ ਕਾ ਭੀ ਹੋਇ ਮੋਖੁ"
+    },
+    {
+      "section_id": "section-00036",
+      "start_time": 361.603,
+      "end_time": 370.205,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਸਦਾ ਅਪਵਿਤੁ"
+    },
+    {
+      "section_id": "section-00037",
+      "start_time": 370.205,
+      "end_time": 378.78,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਕਿਸੈ ਕਾ ਨਹੀ ਮਿਤੁ"
+    },
+    {
+      "section_id": "section-00038",
+      "start_time": 378.78,
+      "end_time": 387.09,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਡਾਨੁ ਲਾਗੈ"
+    },
+    {
+      "section_id": "section-00039",
+      "start_time": 387.09,
+      "end_time": 395.97,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਸਭ ਤਿਆਗੈ"
+    },
+    {
+      "section_id": "section-00040",
+      "start_time": 395.97,
+      "end_time": 404.175,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਮਹਾ ਅਹੰਕਾਰੀ"
+    },
+    {
+      "section_id": "section-00041",
+      "start_time": 404.6,
+      "end_time": 413.035,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਸਦਾ ਬਿਕਾਰੀ"
+    },
+    {
+      "section_id": "section-00042",
+      "start_time": 413.035,
+      "end_time": 421.68,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਜਨਮੈ ਮਰੈ"
+    },
+    {
+      "section_id": "section-00043",
+      "start_time": 421.68,
+      "end_time": 430.24,
+      "transcript": "ਸੰਤ ਕੀ ਦੂਖਨਾ, ਸੁਖ ਤੇ ਟਰੈ"
+    },
+    {
+      "section_id": "section-00044",
+      "start_time": 430.24,
+      "end_time": 438.165,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਨਾਹੀ ਠਾਉ"
+    },
+    {
+      "section_id": "section-00045",
+      "start_time": 438.645,
+      "end_time": 447.095,
+      "transcript": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ, ਤਾ ਲਏ ਮਿਲਾਇ"
+    },
+    {
+      "section_id": "section-00046",
+      "start_time": 455.615,
+      "end_time": 464.105,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਅਧ ਬੀਚ ਤੇ ਟੂਟੈ"
+    },
+    {
+      "section_id": "section-00047",
+      "start_time": 464.105,
+      "end_time": 472.88,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਕਿਤੈ ਕਾਜਿ ਨ ਪਹੂਚੈ"
+    },
+    {
+      "section_id": "section-00048",
+      "start_time": 472.88,
+      "end_time": 480.915,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਉਦਿਆਨ ਭ੍ਰਮਾਈਐ"
+    },
+    {
+      "section_id": "section-00049",
+      "start_time": 481.265,
+      "end_time": 489.705,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਉਝੜਿ ਪਾਈਐ"
+    },
+    {
+      "section_id": "section-00050",
+      "start_time": 489.705,
+      "end_time": 498.28,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਅੰਤਰ ਤੇ ਥੋਥਾ"
+    },
+    {
+      "section_id": "section-00051",
+      "start_time": 498.28,
+      "end_time": 506.55,
+      "transcript": "ਜਿਉ ਸਾਸ ਬਿਨਾ, ਮਿਰਤਕ ਕੀ ਲੋਥਾ"
+    },
+    {
+      "section_id": "section-00052",
+      "start_time": 506.55,
+      "end_time": 514.945,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕੀ, ਜੜ ਕਿਛੁ ਨਾਹਿ"
+    },
+    {
+      "section_id": "section-00053",
+      "start_time": 515.265,
+      "end_time": 523.655,
+      "transcript": "ਆਪਨ ਬੀਜਿ, ਆਪੇ ਹੀ ਖਾਹਿ"
+    },
+    {
+      "section_id": "section-00054",
+      "start_time": 523.655,
+      "end_time": 531.845,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਅਵਰੁ ਨ ਰਾਖਨਹਾਰੁ"
+    },
+    {
+      "section_id": "section-00055",
+      "start_time": 532.205,
+      "end_time": 540.605,
+      "transcript": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ, ਤਾ ਲਏ ਉਬਾਰਿ"
+    },
+    {
+      "section_id": "section-00056",
+      "start_time": 549.095,
+      "end_time": 557.285,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਇਉ ਬਿਲਲਾਇ"
+    },
+    {
+      "section_id": "section-00057",
+      "start_time": 557.84,
+      "end_time": 566.36,
+      "transcript": "ਜਿਉ ਜਲ ਬਿਹੂਨ, ਮਛੁਲੀ ਤੜਫੜਾਇ"
+    },
+    {
+      "section_id": "section-00058",
+      "start_time": 566.36,
+      "end_time": 574.855,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ ਭੂਖਾ, ਨਹੀ ਰਾਜੈ"
+    },
+    {
+      "section_id": "section-00059",
+      "start_time": 574.855,
+      "end_time": 583.365,
+      "transcript": "ਜਿਉ ਪਾਵਕੁ, ਈਧਨਿ ਨਹੀ ਧ੍ਰਾਪੈ"
+    },
+    {
+      "section_id": "section-00060",
+      "start_time": 583.365,
+      "end_time": 591.635,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਛੁਟੈ ਇਕੇਲਾ"
+    },
+    {
+      "section_id": "section-00061",
+      "start_time": 591.825,
+      "end_time": 600.44,
+      "transcript": "ਜਿਉ ਬੂਆੜੁ ਤਿਲੁ, ਖੇਤ ਮਾਹਿ ਦੁਹੇਲਾ"
+    },
+    {
+      "section_id": "section-00062",
+      "start_time": 600.44,
+      "end_time": 608.495,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਧਰਮ ਤੇ ਰਹਤ"
+    },
+    {
+      "section_id": "section-00063",
+      "start_time": 609.08,
+      "end_time": 616.965,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਸਦ ਮਿਥਿਆ ਕਹਤ"
+    },
+    {
+      "section_id": "section-00064",
+      "start_time": 617.56,
+      "end_time": 625.445,
+      "transcript": "ਕਿਰਤੁ ਨਿੰਦਕ ਕਾ, ਧੁਰਿ ਹੀ ਪਇਆ"
+    },
+    {
+      "section_id": "section-00065",
+      "start_time": 626.04,
+      "end_time": 634.545,
+      "transcript": "ਨਾਨਕ ਜੋ ਤਿਸੁ ਭਾਵੈ, ਸੋਈ ਥਿਆ"
+    },
+    {
+      "section_id": "section-00066",
+      "start_time": 642.845,
+      "end_time": 651.235,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਬਿਗੜ ਰੂਪੁ ਹੋਇ ਜਾਇ"
+    },
+    {
+      "section_id": "section-00067",
+      "start_time": 651.415,
+      "end_time": 659.835,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ, ਦਰਗਹ ਮਿਲੈ ਸਜਾਇ"
+    },
+    {
+      "section_id": "section-00068",
+      "start_time": 660.12,
+      "end_time": 668.035,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਸਦਾ ਸਹਕਾਈਐ"
+    },
+    {
+      "section_id": "section-00069",
+      "start_time": 668.035,
+      "end_time": 676.835,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਨ ਮਰੈ ਨ ਜੀਵਾਈਐ"
+    },
+    {
+      "section_id": "section-00070",
+      "start_time": 676.835,
+      "end_time": 685.6,
+      "transcript": "ਸੰਤ ਕੇ ਦੋਖੀ ਕੀ, ਪੁਜੈ ਨ ਆਸਾ"
+    },
+    {
+      "section_id": "section-00071",
+      "start_time": 685.6,
+      "end_time": 693.745,
+      "transcript": "ਸੰਤ ਕਾ ਦੋਖੀ, ਉਠਿ ਚਲੈ ਨਿਰਾਸਾ"
+    },
+    {
+      "section_id": "section-00072",
+      "start_time": 693.745,
+      "end_time": 702.319,
+      "transcript": "ਸੰਤ ਕੈ ਦੋਖਿ, ਨ ਤ੍ਰਿਸਟੈ ਕੋਇ"
+    },
+    {
+      "section_id": "section-00073",
+      "start_time": 702.319,
+      "end_time": 710.945,
+      "transcript": "ਜੈਸਾ ਭਾਵੈ, ਤੈਸਾ ਕੋਈ ਹੋਇ"
+    },
+    {
+      "section_id": "section-00074",
+      "start_time": 710.945,
+      "end_time": 718.945,
+      "transcript": "ਪਇਆ ਕਿਰਤੁ, ਨ ਮੇਟੈ ਕੋਇ"
+    },
+    {
+      "section_id": "section-00075",
+      "start_time": 719.365,
+      "end_time": 727.855,
+      "transcript": "ਨਾਨਕ ਜਾਨੈ, ਸਚਾ ਸੋਇ"
+    },
+    {
+      "section_id": "section-00076",
+      "start_time": 736.067,
+      "end_time": 744.675,
+      "transcript": "ਸਭ ਘਟ ਤਿਸ ਕੇ, ਓਹੁ ਕਰਨੈਹਾਰੁ"
+    },
+    {
+      "section_id": "section-00077",
+      "start_time": 745.28,
+      "end_time": 753.555,
+      "transcript": "ਸਦਾ ਸਦਾ, ਤਿਸ ਕਉ ਨਮਸਕਾਰੁ"
+    },
+    {
+      "section_id": "section-00078",
+      "start_time": 753.555,
+      "end_time": 762.16,
+      "transcript": "ਪ੍ਰਭ ਕੀ ਉਸਤਤਿ, ਕਰਹੁ ਦਿਨੁ ਰਾਤਿ"
+    },
+    {
+      "section_id": "section-00079",
+      "start_time": 762.16,
+      "end_time": 770.59,
+      "transcript": "ਤਿਸਹਿ ਧਿਆਵਹੁ, ਸਾਸਿ ਗਿਰਾਸਿ"
+    },
+    {
+      "section_id": "section-00080",
+      "start_time": 770.59,
+      "end_time": 779.12,
+      "transcript": "ਸਭੁ ਕਛੁ ਵਰਤੈ, ਤਿਸ ਕਾ ਕੀਆ"
+    },
+    {
+      "section_id": "section-00081",
+      "start_time": 779.12,
+      "end_time": 787.465,
+      "transcript": "ਜੈਸਾ ਕਰੇ, ਤੈਸਾ ਕੋ ਥੀਆ"
+    },
+    {
+      "section_id": "section-00082",
+      "start_time": 787.465,
+      "end_time": 796.04,
+      "transcript": "ਅਪਨਾ ਖੇਲੁ, ਆਪਿ ਕਰਨੈਹਾਰੁ"
+    },
+    {
+      "section_id": "section-00083",
+      "start_time": 796.04,
+      "end_time": 804.365,
+      "transcript": "ਦੂਸਰ ਕਉਨੁ, ਕਹੈ ਬੀਚਾਰੁ"
+    },
+    {
+      "section_id": "section-00084",
+      "start_time": 804.365,
+      "end_time": 812.405,
+      "transcript": "ਜਿਸ ਨੋ ਕ੍ਰਿਪਾ ਕਰੈ, ਤਿਸੁ ਆਪਨ ਨਾਮੁ ਦੇਇ"
+    },
+    {
+      "section_id": "section-00085",
+      "start_time": 812.855,
+      "end_time": 821.082,
+      "transcript": "ਬਡਭਾਗੀ, ਨਾਨਕ ਜਨ ਸੇਇ"
+    },
+    {
+      "section_id": "section-00086",
+      "start_time": 821.082,
+      "end_time": 830.506,
+      "transcript": "ਬਡਭਾਗੀ, ਨਾਨਕ ਜਨ ਸੇਇ"
+    }
+  ]
+}
