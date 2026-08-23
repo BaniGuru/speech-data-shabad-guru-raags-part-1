@@ -1,0 +1,521 @@
+{
+  "audio_file": "0220 A Pb.mp3",
+  "sections": [
+    {
+      "section_id": "section-00001",
+      "start_time": 5.435,
+      "end_time": 14.217,
+      "transcript": "ਸਲੋਕੁ"
+    },
+    {
+      "section_id": "section-00002",
+      "start_time": 32.873,
+      "end_time": 39.225,
+      "transcript": "ਪੂਰਾ ਪ੍ਰਭੁ ਆਰਾਧਿਆ"
+    },
+    {
+      "section_id": "section-00003",
+      "start_time": 39.76,
+      "end_time": 46.015,
+      "transcript": "ਪੂਰਾ ਜਾ ਕਾ ਨਾਉ"
+    },
+    {
+      "section_id": "section-00004",
+      "start_time": 46.415,
+      "end_time": 52.535,
+      "transcript": "ਨਾਨਕ ਪੂਰਾ ਪਾਇਆ"
+    },
+    {
+      "section_id": "section-00005",
+      "start_time": 53.0,
+      "end_time": 62.425,
+      "transcript": "ਪੂਰੇ ਕੇ ਗੁਨ ਗਾਉ ਅਸਟਪਦੀ"
+    },
+    {
+      "section_id": "section-00006",
+      "start_time": 71.515,
+      "end_time": 78.115,
+      "transcript": "ਪੂਰੇ ਗੁਰ ਕਾ, ਸੁਨਿ ਉਪਦੇਸੁ"
+    },
+    {
+      "section_id": "section-00007",
+      "start_time": 78.115,
+      "end_time": 84.75,
+      "transcript": "ਪਾਰਬ੍ਰਹਮੁ, ਨਿਕਟਿ ਕਰਿ ਪੇਖੁ"
+    },
+    {
+      "section_id": "section-00008",
+      "start_time": 84.75,
+      "end_time": 91.29,
+      "transcript": "ਸਾਸਿ ਸਾਸਿ, ਸਿਮਰਹੁ ਗੋਬਿੰਦ"
+    },
+    {
+      "section_id": "section-00009",
+      "start_time": 91.29,
+      "end_time": 97.94,
+      "transcript": "ਮਨ ਅੰਤਰ ਕੀ, ਉਤਰੈ ਚਿੰਦ"
+    },
+    {
+      "section_id": "section-00010",
+      "start_time": 97.94,
+      "end_time": 104.6,
+      "transcript": "ਆਸ ਅਨਿਤ, ਤਿਆਗਹੁ ਤਰੰਗ"
+    },
+    {
+      "section_id": "section-00011",
+      "start_time": 104.6,
+      "end_time": 110.785,
+      "transcript": "ਸੰਤ ਜਨਾ ਕੀ ਧੂਰਿ, ਮਨ ਮੰਗ"
+    },
+    {
+      "section_id": "section-00012",
+      "start_time": 111.135,
+      "end_time": 117.625,
+      "transcript": "ਆਪੁ ਛੋਡਿ, ਬੇਨਤੀ ਕਰਹੁ"
+    },
+    {
+      "section_id": "section-00013",
+      "start_time": 117.625,
+      "end_time": 124.195,
+      "transcript": "ਸਾਧਸੰਗਿ, ਅਗਨਿ ਸਾਗਰੁ ਤਰਹੁ"
+    },
+    {
+      "section_id": "section-00014",
+      "start_time": 124.195,
+      "end_time": 130.645,
+      "transcript": "ਹਰਿ ਧਨ ਕੇ, ਭਰਿ ਲੇਹੁ ਭੰਡਾਰ"
+    },
+    {
+      "section_id": "section-00015",
+      "start_time": 130.645,
+      "end_time": 137.355,
+      "transcript": "ਨਾਨਕ, ਗੁਰ ਪੂਰੇ ਨਮਸਕਾਰ"
+    },
+    {
+      "section_id": "section-00016",
+      "start_time": 143.92,
+      "end_time": 150.325,
+      "transcript": "ਖੇਮ ਕੁਸਲ, ਸਹਜ ਆਨੰਦ"
+    },
+    {
+      "section_id": "section-00017",
+      "start_time": 150.325,
+      "end_time": 156.835,
+      "transcript": "ਸਾਧਸੰਗਿ, ਭਜੁ ਪਰਮਾਨੰਦ"
+    },
+    {
+      "section_id": "section-00018",
+      "start_time": 156.835,
+      "end_time": 163.27,
+      "transcript": "ਨਰਕ ਨਿਵਾਰਿ, ਉਧਾਰਹੁ ਜੀਉ"
+    },
+    {
+      "section_id": "section-00019",
+      "start_time": 163.27,
+      "end_time": 169.8,
+      "transcript": "ਗੁਨ ਗੋਬਿੰਦ, ਅੰਮ੍ਰਿਤ ਰਸੁ ਪੀਉ"
+    },
+    {
+      "section_id": "section-00020",
+      "start_time": 169.8,
+      "end_time": 176.225,
+      "transcript": "ਚਿਤਿ ਚਿਤਵਹੁ, ਨਾਰਾਇਣ ਏਕ"
+    },
+    {
+      "section_id": "section-00021",
+      "start_time": 176.225,
+      "end_time": 189.06,
+      "transcript": "ਏਕ ਰੂਪ, ਜਾ ਕੇ ਰੰਗ ਅਨੇਕ ਗੋਪਾਲ ਦਾਮੋਦਰ, ਦੀਨ ਦਇਆਲ"
+    },
+    {
+      "section_id": "section-00022",
+      "start_time": 189.06,
+      "end_time": 195.72,
+      "transcript": "ਦੁਖ ਭੰਜਨ, ਪੂਰਨ ਕਿਰਪਾਲ"
+    },
+    {
+      "section_id": "section-00023",
+      "start_time": 195.72,
+      "end_time": 201.985,
+      "transcript": "ਸਿਮਰਿ ਸਿਮਰਿ ਨਾਮੁ, ਬਾਰੰ ਬਾਰ"
+    },
+    {
+      "section_id": "section-00024",
+      "start_time": 201.985,
+      "end_time": 208.765,
+      "transcript": "ਨਾਨਕ ਜੀਅ ਕਾ, ਇਹੈ ਅਧਾਰ"
+    },
+    {
+      "section_id": "section-00025",
+      "start_time": 215.08,
+      "end_time": 221.6,
+      "transcript": "ਉਤਮ ਸਲੋਕ, ਸਾਧ ਕੇ ਬਚਨ"
+    },
+    {
+      "section_id": "section-00026",
+      "start_time": 221.6,
+      "end_time": 227.785,
+      "transcript": "ਅਮੁਲੀਕ ਲਾਲ, ਏਹਿ ਰਤਨ"
+    },
+    {
+      "section_id": "section-00027",
+      "start_time": 227.785,
+      "end_time": 234.115,
+      "transcript": "ਸੁਨਤ ਕਮਾਵਤ, ਹੋਤ ਉਧਾਰ"
+    },
+    {
+      "section_id": "section-00028",
+      "start_time": 234.455,
+      "end_time": 240.7,
+      "transcript": "ਆਪਿ ਤਰੈ, ਲੋਕਹ ਨਿਸਤਾਰ"
+    },
+    {
+      "section_id": "section-00029",
+      "start_time": 240.7,
+      "end_time": 247.265,
+      "transcript": "ਸਫਲ ਜੀਵਨੁ, ਸਫਲੁ ਤਾ ਕਾ ਸੰਗੁ"
+    },
+    {
+      "section_id": "section-00030",
+      "start_time": 247.265,
+      "end_time": 253.645,
+      "transcript": "ਜਾ ਕੈ ਮਨਿ ਲਾਗਾ, ਹਰਿ ਰੰਗੁ"
+    },
+    {
+      "section_id": "section-00031",
+      "start_time": 253.645,
+      "end_time": 260.36,
+      "transcript": "ਜੈ ਜੈ ਸਬਦੁ, ਅਨਾਹਦੁ ਵਾਜੈ"
+    },
+    {
+      "section_id": "section-00032",
+      "start_time": 260.36,
+      "end_time": 266.76,
+      "transcript": "ਸੁਨਿ ਸੁਨਿ ਅਨਦ ਕਰੇ, ਪ੍ਰਭੁ ਗਾਜੈ"
+    },
+    {
+      "section_id": "section-00033",
+      "start_time": 266.76,
+      "end_time": 272.925,
+      "transcript": "ਪ੍ਰਗਟੇ ਗੁਪਾਲ, ਮਹਾਂਤ ਕੈ ਮਾਥੇ"
+    },
+    {
+      "section_id": "section-00034",
+      "start_time": 272.925,
+      "end_time": 279.565,
+      "transcript": "ਨਾਨਕ ਉਧਰੇ, ਤਿਨ ਕੈ ਸਾਥੇ"
+    },
+    {
+      "section_id": "section-00035",
+      "start_time": 286.04,
+      "end_time": 292.52,
+      "transcript": "ਸਰਨਿ ਜੋਗੁ ਸੁਨਿ, ਸਰਨੀ ਆਏ"
+    },
+    {
+      "section_id": "section-00036",
+      "start_time": 292.52,
+      "end_time": 298.82,
+      "transcript": "ਕਰਿ ਕਿਰਪਾ, ਪ੍ਰਭ ਆਪ ਮਿਲਾਏ"
+    },
+    {
+      "section_id": "section-00037",
+      "start_time": 298.82,
+      "end_time": 305.18,
+      "transcript": "ਮਿਟਿ ਗਏ ਬੈਰ, ਭਏ ਸਭ ਰੇਨ"
+    },
+    {
+      "section_id": "section-00038",
+      "start_time": 305.18,
+      "end_time": 311.437,
+      "transcript": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ, ਸਾਧਸੰਗਿ ਲੈਨ"
+    },
+    {
+      "section_id": "section-00039",
+      "start_time": 311.437,
+      "end_time": 317.985,
+      "transcript": "ਸੁਪ੍ਰਸੰਨ, ਭਏ ਗੁਰਦੇਵ"
+    },
+    {
+      "section_id": "section-00040",
+      "start_time": 317.985,
+      "end_time": 324.445,
+      "transcript": "ਪੂਰਨ ਹੋਈ, ਸੇਵਕ ਕੀ ਸੇਵ"
+    },
+    {
+      "section_id": "section-00041",
+      "start_time": 324.445,
+      "end_time": 330.905,
+      "transcript": "ਆਲ ਜੰਜਾਲ, ਬਿਕਾਰ ਤੇ ਰਹਤੇ"
+    },
+    {
+      "section_id": "section-00042",
+      "start_time": 330.905,
+      "end_time": 337.48,
+      "transcript": "ਰਾਮ ਨਾਮ, ਸੁਨਿ ਰਸਨਾ ਕਹਤੇ"
+    },
+    {
+      "section_id": "section-00043",
+      "start_time": 337.48,
+      "end_time": 343.835,
+      "transcript": "ਕਰਿ ਪ੍ਰਸਾਦੁ, ਦਇਆ ਪ੍ਰਭਿ ਧਾਰੀ"
+    },
+    {
+      "section_id": "section-00044",
+      "start_time": 343.835,
+      "end_time": 350.595,
+      "transcript": "ਨਾਨਕ ਨਿਬਹੀ, ਖੇਪ ਹਮਾਰੀ"
+    },
+    {
+      "section_id": "section-00045",
+      "start_time": 356.8,
+      "end_time": 363.19,
+      "transcript": "ਪ੍ਰਭ ਕੀ ਉਸਤਤਿ, ਕਰਹੁ ਸੰਤ ਮੀਤ"
+    },
+    {
+      "section_id": "section-00046",
+      "start_time": 363.19,
+      "end_time": 369.63,
+      "transcript": "ਸਾਵਧਾਨ ਏਕਾਗਰ ਚੀਤ"
+    },
+    {
+      "section_id": "section-00047",
+      "start_time": 369.63,
+      "end_time": 376.06,
+      "transcript": "ਸੁਖਮਨੀ ਸਹਜ, ਗੋਬਿੰਦ ਗੁਨ ਨਾਮ"
+    },
+    {
+      "section_id": "section-00048",
+      "start_time": 376.06,
+      "end_time": 382.48,
+      "transcript": "ਜਿਸੁ ਮਨਿ ਬਸੈ, ਸੁ ਹੋਤ ਨਿਧਾਨ"
+    },
+    {
+      "section_id": "section-00049",
+      "start_time": 382.48,
+      "end_time": 388.81,
+      "transcript": "ਸਰਬ ਇਛਾ, ਤਾ ਕੀ ਪੂਰਨ ਹੋਇ"
+    },
+    {
+      "section_id": "section-00050",
+      "start_time": 388.81,
+      "end_time": 395.085,
+      "transcript": "ਪ੍ਰਧਾਨ ਪੁਰਖੁ, ਪ੍ਰਗਟੁ ਸਭ ਲੋਇ"
+    },
+    {
+      "section_id": "section-00051",
+      "start_time": 395.085,
+      "end_time": 401.63,
+      "transcript": "ਸਭ ਤੇ ਊਚ, ਪਾਏ ਅਸਥਾਨੁ"
+    },
+    {
+      "section_id": "section-00052",
+      "start_time": 401.63,
+      "end_time": 408.16,
+      "transcript": "ਬਹੁਰਿ ਨ ਹੋਵੈ, ਆਵਨ ਜਾਨੁ"
+    },
+    {
+      "section_id": "section-00053",
+      "start_time": 408.16,
+      "end_time": 414.385,
+      "transcript": "ਹਰਿ ਧਨੁ ਖਾਟਿ ਚਲੈ, ਜਨੁ ਸੋਇ"
+    },
+    {
+      "section_id": "section-00054",
+      "start_time": 414.385,
+      "end_time": 420.855,
+      "transcript": "ਨਾਨਕ, ਜਿਸਹਿ ਪਰਾਪਤਿ ਹੋਇ"
+    },
+    {
+      "section_id": "section-00055",
+      "start_time": 427.28,
+      "end_time": 433.53,
+      "transcript": "ਖੇਮ ਸਾਂਤਿ, ਰਿਧਿ ਨਵ ਨਿਧਿ"
+    },
+    {
+      "section_id": "section-00056",
+      "start_time": 433.53,
+      "end_time": 439.835,
+      "transcript": "ਬੁਧਿ ਗਿਆਨੁ, ਸਰਬ ਤਹ ਸਿਧਿ"
+    },
+    {
+      "section_id": "section-00057",
+      "start_time": 439.835,
+      "end_time": 446.235,
+      "transcript": "ਬਿਦਿਆ ਤਪੁ ਜੋਗੁ, ਪ੍ਰਭ ਧਿਆਨੁ"
+    },
+    {
+      "section_id": "section-00058",
+      "start_time": 446.235,
+      "end_time": 452.68,
+      "transcript": "ਗਿਆਨੁ ਸ੍ਰੇਸਟ, ਊਤਮ ਇਸਨਾਨੁ"
+    },
+    {
+      "section_id": "section-00059",
+      "start_time": 452.68,
+      "end_time": 459.16,
+      "transcript": "ਚਾਰਿ ਪਦਾਰਥ, ਕਮਲ ਪ੍ਰਗਾਸ"
+    },
+    {
+      "section_id": "section-00060",
+      "start_time": 459.16,
+      "end_time": 465.395,
+      "transcript": "ਸਭ ਕੈ ਮਧਿ, ਸਗਲ ਤੇ ਉਦਾਸ"
+    },
+    {
+      "section_id": "section-00061",
+      "start_time": 465.395,
+      "end_time": 472.0,
+      "transcript": "ਸੁੰਦਰੁ ਚਤੁਰੁ, ਤਤ ਕਾ ਬੇਤਾ"
+    },
+    {
+      "section_id": "section-00062",
+      "start_time": 472.0,
+      "end_time": 478.105,
+      "transcript": "ਸਮਦਰਸੀ, ਏਕ ਦ੍ਰਿਸਟੇਤਾ"
+    },
+    {
+      "section_id": "section-00063",
+      "start_time": 478.105,
+      "end_time": 484.025,
+      "transcript": "ਇਹ ਫਲ, ਤਿਸੁ ਜਨ ਕੈ ਮੁਖਿ ਭਨੇ"
+    },
+    {
+      "section_id": "section-00064",
+      "start_time": 484.405,
+      "end_time": 490.755,
+      "transcript": "ਗੁਰ ਨਾਨਕ ਨਾਮ ਬਚਨ, ਮਨਿ ਸੁਨੇ"
+    },
+    {
+      "section_id": "section-00065",
+      "start_time": 500.36,
+      "end_time": 507.825,
+      "transcript": "ਇਹੁ ਨਿਧਾਨੁ, ਜਪੈ ਮਨਿ ਕੋਇ"
+    },
+    {
+      "section_id": "section-00066",
+      "start_time": 508.36,
+      "end_time": 515.745,
+      "transcript": "ਸਭ ਜੁਗ ਮਹਿ, ਤਾ ਕੀ ਗਤਿ ਹੋਇ"
+    },
+    {
+      "section_id": "section-00067",
+      "start_time": 516.195,
+      "end_time": 523.495,
+      "transcript": "ਗੁਣ ਗੋਬਿੰਦ, ਨਾਮ ਧੁਨਿ ਬਾਣੀ"
+    },
+    {
+      "section_id": "section-00068",
+      "start_time": 524.115,
+      "end_time": 531.445,
+      "transcript": "ਸਿਮ੍ਰਿਤਿ ਸਾਸਤ੍ਰ, ਬੇਦ ਬਖਾਣੀ"
+    },
+    {
+      "section_id": "section-00069",
+      "start_time": 532.08,
+      "end_time": 539.465,
+      "transcript": "ਸਗਲ ਮਤਾਂਤ, ਕੇਵਲ ਹਰਿ ਨਾਮ"
+    },
+    {
+      "section_id": "section-00070",
+      "start_time": 539.725,
+      "end_time": 547.195,
+      "transcript": "ਗੋਬਿੰਦ ਭਗਤ ਕੈ, ਮਨਿ ਬਿਸ੍ਰਾਮ"
+    },
+    {
+      "section_id": "section-00071",
+      "start_time": 547.84,
+      "end_time": 555.145,
+      "transcript": "ਕੋਟਿ ਅਪ੍ਰਾਧ, ਸਾਧਸੰਗਿ ਮਿਟੈ"
+    },
+    {
+      "section_id": "section-00072",
+      "start_time": 555.68,
+      "end_time": 562.945,
+      "transcript": "ਸੰਤ ਕ੍ਰਿਪਾ ਤੇ, ਜਮ ਤੇ ਛੁਟੈ"
+    },
+    {
+      "section_id": "section-00073",
+      "start_time": 563.355,
+      "end_time": 570.645,
+      "transcript": "ਜਾ ਕੈ ਮਸਤਕਿ, ਕਰਮ ਪ੍ਰਭਿ ਪਾਏ"
+    },
+    {
+      "section_id": "section-00074",
+      "start_time": 571.265,
+      "end_time": 578.705,
+      "transcript": "ਸਾਧ ਸਰਣਿ, ਨਾਨਕ ਤੇ ਆਏ"
+    },
+    {
+      "section_id": "section-00075",
+      "start_time": 586.715,
+      "end_time": 594.505,
+      "transcript": "ਜਿਸੁ ਮਨਿ ਬਸੈ, ਸੁਨੈ ਲਾਇ ਪ੍ਰੀਤਿ"
+    },
+    {
+      "section_id": "section-00076",
+      "start_time": 594.6,
+      "end_time": 602.023,
+      "transcript": "ਤਿਸੁ ਜਨ ਆਵੈ, ਹਰਿ ਪ੍ਰਭੁ ਚੀਤਿ"
+    },
+    {
+      "section_id": "section-00077",
+      "start_time": 602.023,
+      "end_time": 609.445,
+      "transcript": "ਜਨਮ ਮਰਨ, ਤਾ ਕਾ ਦੂਖੁ ਨਿਵਾਰੈ"
+    },
+    {
+      "section_id": "section-00078",
+      "start_time": 609.935,
+      "end_time": 617.275,
+      "transcript": "ਦੁਲਭ ਦੇਹ, ਤਤਕਾਲ ਉਧਾਰੈ"
+    },
+    {
+      "section_id": "section-00079",
+      "start_time": 617.755,
+      "end_time": 625.055,
+      "transcript": "ਨਿਰਮਲ ਸੋਭਾ, ਅੰਮ੍ਰਿਤ ਤਾ ਕੀ ਬਾਨੀ"
+    },
+    {
+      "section_id": "section-00080",
+      "start_time": 625.52,
+      "end_time": 632.805,
+      "transcript": "ਏਕੁ ਨਾਮੁ, ਮਨ ਮਾਹਿ ਸਮਾਨੀ"
+    },
+    {
+      "section_id": "section-00081",
+      "start_time": 633.285,
+      "end_time": 640.965,
+      "transcript": "ਦੂਖ ਰੋਗ, ਬਿਨਸੇ ਭੈ ਭਰਮ"
+    },
+    {
+      "section_id": "section-00082",
+      "start_time": 641.16,
+      "end_time": 648.415,
+      "transcript": "ਸਾਧ ਨਾਮ, ਨਿਰਮਲ ਤਾ ਕੇ ਕਰਮ"
+    },
+    {
+      "section_id": "section-00083",
+      "start_time": 648.8,
+      "end_time": 656.015,
+      "transcript": "ਸਭ ਤੇ ਊਚ, ਤਾ ਕੀ ਸੋਭਾ ਬਨੀ"
+    },
+    {
+      "section_id": "section-00084",
+      "start_time": 656.375,
+      "end_time": 663.575,
+      "transcript": "ਨਾਨਕ ਇਹ ਗੁਣਿ, ਨਾਮੁ ਸੁਖਮਨੀ"
+    },
+    {
+      "section_id": "section-00085",
+      "start_time": 664.095,
+      "end_time": 671.464,
+      "transcript": "ਸਭ ਤੇ ਊਚ, ਤਾ ਕੀ ਸੋਭਾ ਬਨੀ"
+    },
+    {
+      "section_id": "section-00086",
+      "start_time": 671.464,
+      "end_time": 679.246,
+      "transcript": "ਨਾਨਕ ਇਹ ਗੁਣਿ, ਨਾਮੁ ਸੁਖਮਨੀ"
+    }
+  ]
+}
