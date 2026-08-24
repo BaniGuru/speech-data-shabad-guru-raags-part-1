@@ -1,0 +1,47 @@
+{
+  "audio_file": "0243 D Pb.mp3",
+  "sections": [
+    {
+      "section_id": "section-00001",
+      "start_time": 0.2,
+      "end_time": 7.025,
+      "transcript": "ਗਉੜੀ ਕਬੀਰ ਜੀ ਦੁਪਦੇ"
+    },
+    {
+      "section_id": "section-00002",
+      "start_time": 12.925,
+      "end_time": 19.42,
+      "transcript": "ਨਾ ਮੈ, ਜੋਗ ਧਿਆਨ ਚਿਤੁ ਲਾਇਆ"
+    },
+    {
+      "section_id": "section-00003",
+      "start_time": 19.42,
+      "end_time": 26.008,
+      "transcript": "ਬਿਨੁ ਬੈਰਾਗ, ਨ ਛੂਟਸਿ ਮਾਇਆ"
+    },
+    {
+      "section_id": "section-00004",
+      "start_time": 26.008,
+      "end_time": 32.44,
+      "transcript": "ਕੈਸੇ ਜੀਵਨੁ ਹੋਇ ਹਮਾਰਾ"
+    },
+    {
+      "section_id": "section-00005",
+      "start_time": 32.44,
+      "end_time": 42.245,
+      "transcript": "ਜਬ ਨ ਹੋਇ, ਰਾਮ ਨਾਮ ਅਧਾਰਾ ਰਹਾਉ"
+    },
+    {
+      "section_id": "section-00006",
+      "start_time": 48.815,
+      "end_time": 55.215,
+      "transcript": "ਕਹੁ ਕਬੀਰ, ਖੋਜਉ ਅਸਮਾਨ"
+    },
+    {
+      "section_id": "section-00007",
+      "start_time": 55.215,
+      "end_time": 61.455,
+      "transcript": "ਰਾਮ ਸਮਾਨ, ਨ ਦੇਖਉ ਆਨ"
+    }
+  ]
+}
