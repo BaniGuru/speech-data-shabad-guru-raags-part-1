@@ -2,252 +2,190 @@
   "audio_file": "010 A Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ",
       "section_id": "section-1",
-      "start_time": 663,
-      "end_time": 9310,
-      "verified": true,
-      "line_id": "2A5Q"
+      "transcript": "ਸਿਰੀਰਾਗੁ",
+      "start_time": 0.663,
+      "end_time": 9.31
     },
     {
-      "title": "ਮਹਲਾ, ਪਹਿਲਾ,",
       "section_id": "section-2",
-      "start_time": 9310,
-      "end_time": 20050,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਹਲਾ, ਪਹਿਲਾ,",
+      "start_time": 9.31,
+      "end_time": 20.05
     },
     {
-      "title": "ਲਬੁ ਕੁਤਾ ਕੂੜੁ ਚੂਹੜਾ",
       "section_id": "section-3",
-      "start_time": 38816,
-      "end_time": 46245,
-      "verified": true,
-      "line_id": "96RT"
+      "transcript": "ਲਬੁ ਕੁਤਾ ਕੂੜੁ ਚੂਹੜਾ",
+      "start_time": 38.816,
+      "end_time": 46.245
     },
     {
-      "title": "ਠਗਿ ਖਾਧਾ ਮੁਰਦਾਰੁ,",
       "section_id": "section-4",
-      "start_time": 46245,
-      "end_time": 54250,
-      "verified": true,
-      "line_id": "96RT"
+      "transcript": "ਠਗਿ ਖਾਧਾ ਮੁਰਦਾਰੁ,",
+      "start_time": 46.245,
+      "end_time": 54.25
     },
     {
-      "title": "ਪਰ ਨਿੰਦਾ ਪਰ ਮਲੁ ਮੁਖ ਸੁਧੀ।",
       "section_id": "section-5",
-      "start_time": 54250,
-      "end_time": 61867,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਪਰ ਨਿੰਦਾ ਪਰ ਮਲੁ ਮੁਖ ਸੁਧੀ।",
+      "start_time": 54.25,
+      "end_time": 61.867
     },
     {
-      "title": "ਅਗਨਿ ਕ੍ਰੋਧੁ ਚੰਡਾਲੁ।",
       "section_id": "section-6",
-      "start_time": 61867,
-      "end_time": 69755,
-      "verified": true,
-      "line_id": "X0YP"
+      "transcript": "ਅਗਨਿ ਕ੍ਰੋਧੁ ਚੰਡਾਲੁ।",
+      "start_time": 61.867,
+      "end_time": 69.755
     },
     {
-      "title": "ਰਸ ਕਸ ਆਪੁ ਸਲਾਹਣਾ ਏ",
       "section_id": "section-7",
-      "start_time": 69755,
-      "end_time": 77493,
-      "verified": true,
-      "line_id": "W6PF"
+      "transcript": "ਰਸ ਕਸ ਆਪੁ ਸਲਾਹਣਾ ਏ",
+      "start_time": 69.755,
+      "end_time": 77.493
     },
     {
-      "title": "ਕਰਮ ਮੇਰੇ ਕਰਤਾਰ",
       "section_id": "section-8",
-      "start_time": 77493,
-      "end_time": 85131,
-      "verified": true,
-      "line_id": "W6PF"
+      "transcript": "ਕਰਮ ਮੇਰੇ ਕਰਤਾਰ",
+      "start_time": 77.493,
+      "end_time": 85.131
     },
     {
-      "title": "ਬਾਬਾ ਬੋਲੀਐ",
       "section_id": "section-9",
-      "start_time": 85131,
-      "end_time": 92700,
-      "verified": true,
-      "line_id": "ASRM"
+      "transcript": "ਬਾਬਾ ਬੋਲੀਐ",
+      "start_time": 85.131,
+      "end_time": 92.7
     },
     {
-      "title": "ਊਤਮ ਸੇ ਦਰਿ ਊਤਮ ਕਹੀਅਹਿ",
       "section_id": "section-10",
-      "start_time": 92700,
-      "end_time": 100347,
-      "verified": true,
-      "line_id": "Y4YQ"
+      "transcript": "ਊਤਮ ਸੇ ਦਰਿ ਊਤਮ ਕਹੀਅਹਿ",
+      "start_time": 92.7,
+      "end_time": 100.347
     },
     {
-      "title": "ਨੀਚ ਕਰਮ ਬਹਿ ਰੋਇ ਰਹਾਉ",
       "section_id": "section-11",
-      "start_time": 100347,
-      "end_time": 108363,
-      "verified": true,
-      "line_id": "Y4YQ"
+      "transcript": "ਨੀਚ ਕਰਮ ਬਹਿ ਰੋਇ ਰਹਾਉ",
+      "start_time": 100.347,
+      "end_time": 108.363
     },
     {
-      "title": "ਰਸੁ ਸੁਇਨਾ ਰਸੁ ਰੁਪਾ ਕਾਮਣਿ,",
       "section_id": "section-12",
-      "start_time": 122933,
-      "end_time": 130500,
-      "verified": true,
-      "line_id": "54GX"
+      "transcript": "ਰਸੁ ਸੁਇਨਾ ਰਸੁ ਰੁਪਾ ਕਾਮਣਿ,",
+      "start_time": 122.933,
+      "end_time": 130.5
     },
     {
-      "title": "ਰਸੁ ਪਰਮਲ ਕੀ ਵਾਸੁ,",
       "section_id": "section-13",
-      "start_time": 130500,
-      "end_time": 137986,
-      "verified": true,
-      "line_id": "54GX"
+      "transcript": "ਰਸੁ ਪਰਮਲ ਕੀ ਵਾਸੁ,",
+      "start_time": 130.5,
+      "end_time": 137.986
     },
     {
-      "title": "ਰਸੁ ਘੋੜੇ ਰਸੁ ਸੇਜਾ ਮੰਦਰ,",
       "section_id": "section-14",
-      "start_time": 137986,
-      "end_time": 145597,
-      "verified": true,
-      "line_id": "A6DW"
+      "transcript": "ਰਸੁ ਘੋੜੇ ਰਸੁ ਸੇਜਾ ਮੰਦਰ,",
+      "start_time": 137.986,
+      "end_time": 145.597
     },
     {
-      "title": "ਰਸੁ ਮੀਠਾ ਰਸੁ ਮਾਸੁ।",
       "section_id": "section-15",
-      "start_time": 145597,
-      "end_time": 153000,
-      "verified": true,
-      "line_id": "A6DW"
+      "transcript": "ਰਸੁ ਮੀਠਾ ਰਸੁ ਮਾਸੁ।",
+      "start_time": 145.597,
+      "end_time": 153.0
     },
     {
-      "title": "ਏਤੇ ਰਸ ਸਰੀਰ ਕੇ",
       "section_id": "section-16",
-      "start_time": 153000,
-      "end_time": 160449,
-      "verified": true,
-      "line_id": "KYHU"
+      "transcript": "ਏਤੇ ਰਸ ਸਰੀਰ ਕੇ",
+      "start_time": 153.0,
+      "end_time": 160.449
     },
     {
-      "title": "ਕੈ ਘਟਿ ਨਾਮ ਨਿਵਾਸੁ",
       "section_id": "section-17",
-      "start_time": 160449,
-      "end_time": 168048,
-      "verified": true,
-      "line_id": "KYHU"
+      "transcript": "ਕੈ ਘਟਿ ਨਾਮ ਨਿਵਾਸੁ",
+      "start_time": 160.449,
+      "end_time": 168.048
     },
     {
-      "title": "ਜਿਤੁ ਬੋਲਿਐ ਪਤਿ ਪਾਈਐ",
       "section_id": "section-18",
-      "start_time": 175581,
-      "end_time": 182686,
-      "verified": true,
-      "line_id": "PY18"
+      "transcript": "ਜਿਤੁ ਬੋਲਿਐ ਪਤਿ ਪਾਈਐ",
+      "start_time": 175.581,
+      "end_time": 182.686
     },
     {
-      "title": "ਸੋ ਬੋਲਿਆ ਪਰਵਾਣੁ",
       "section_id": "section-19",
-      "start_time": 182686,
-      "end_time": 190294,
-      "verified": true,
-      "line_id": "PY18"
+      "transcript": "ਸੋ ਬੋਲਿਆ ਪਰਵਾਣੁ",
+      "start_time": 182.686,
+      "end_time": 190.294
     },
     {
-      "title": "ਫਿਕਾ ਬੋਲਿ ਵਿਗੁਚਣਾ",
       "section_id": "section-20",
-      "start_time": 190294,
-      "end_time": 197656,
-      "verified": true,
-      "line_id": "TSQT"
+      "transcript": "ਫਿਕਾ ਬੋਲਿ ਵਿਗੁਚਣਾ",
+      "start_time": 190.294,
+      "end_time": 197.656
     },
     {
-      "title": "ਸੁਣਿ ਮੂਰਖ ਮਨ ਅਜਾਣ",
       "section_id": "section-21",
-      "start_time": 197656,
-      "end_time": 205112,
-      "verified": true,
-      "line_id": "TSQT"
+      "transcript": "ਸੁਣਿ ਮੂਰਖ ਮਨ ਅਜਾਣ",
+      "start_time": 197.656,
+      "end_time": 205.112
     },
     {
-      "title": "ਜੋ ਤਿਸੁ ਭਾਵਹਿ ਸੇ ਭਲੇ",
       "section_id": "section-22",
-      "start_time": 205112,
-      "end_time": 212330,
-      "verified": true,
-      "line_id": "F1NX"
+      "transcript": "ਜੋ ਤਿਸੁ ਭਾਵਹਿ ਸੇ ਭਲੇ",
+      "start_time": 205.112,
+      "end_time": 212.33
     },
     {
-      "title": "ਹੋਰਿ ਕਿ ਕਹਣ ਵਖਾਣ",
       "section_id": "section-23",
-      "start_time": 212330,
-      "end_time": 220311,
-      "verified": true,
-      "line_id": "F1NX"
+      "transcript": "ਹੋਰਿ ਕਿ ਕਹਣ ਵਖਾਣ",
+      "start_time": 212.33,
+      "end_time": 220.311
     },
     {
-      "title": "ਤਿਨ ਮਤਿ ਤਿਨ ਪਤਿ ਤਿਨ ਧਨੁ ਪਲੈ",
       "section_id": "section-24",
-      "start_time": 227379,
-      "end_time": 234689,
-      "verified": true,
-      "line_id": "KN6M"
+      "transcript": "ਤਿਨ ਮਤਿ ਤਿਨ ਪਤਿ ਤਿਨ ਧਨੁ ਪਲੈ",
+      "start_time": 227.379,
+      "end_time": 234.689
     },
     {
-      "title": "ਜਿਨ ਹਿਰਦੈ ਰਹਿਆ ਸਮਾਇ",
       "section_id": "section-25",
-      "start_time": 234689,
-      "end_time": 241674,
-      "verified": true,
-      "line_id": "KN6M"
+      "transcript": "ਜਿਨ ਹਿਰਦੈ ਰਹਿਆ ਸਮਾਇ",
+      "start_time": 234.689,
+      "end_time": 241.674
     },
     {
-      "title": "ਤਿਨ ਕਾ ਕਿਆ ਸਾਲਾਹਣਾ",
       "section_id": "section-26",
-      "start_time": 241674,
-      "end_time": 249286,
-      "verified": true,
-      "line_id": "NDEV"
+      "transcript": "ਤਿਨ ਕਾ ਕਿਆ ਸਾਲਾਹਣਾ",
+      "start_time": 241.674,
+      "end_time": 249.286
     },
     {
-      "title": "ਅਵਰ ਸੁਆਲਿਉ ਕਾਇ,",
       "section_id": "section-27",
-      "start_time": 249286,
-      "end_time": 256367,
-      "verified": true,
-      "line_id": "NDEV"
+      "transcript": "ਅਵਰ ਸੁਆਲਿਉ ਕਾਇ,",
+      "start_time": 249.286,
+      "end_time": 256.367
     },
     {
-      "title": "ਨਾਨਕ ਨਦਰੀ ਬਾਹਰੇ।",
       "section_id": "section-28",
-      "start_time": 256367,
-      "end_time": 263695,
-      "verified": true,
-      "line_id": "SGMH"
+      "transcript": "ਨਾਨਕ ਨਦਰੀ ਬਾਹਰੇ।",
+      "start_time": 256.367,
+      "end_time": 263.695
     },
     {
-      "title": "ਰਾਚਹਿ ਦਾਨਿ ਨ ਨਾਇ।",
       "section_id": "section-29",
-      "start_time": 263695,
-      "end_time": 271127,
-      "verified": true,
-      "line_id": "SGMH"
+      "transcript": "ਰਾਚਹਿ ਦਾਨਿ ਨ ਨਾਇ।",
+      "start_time": 263.695,
+      "end_time": 271.127
     },
     {
-      "title": "ਨਾਨਕ ਨਦਰੀ ਬਾਹਰੇ,",
       "section_id": "section-30",
-      "start_time": 285179,
-      "end_time": 292168,
-      "verified": true,
-      "line_id": "SGMH"
+      "transcript": "ਨਾਨਕ ਨਦਰੀ ਬਾਹਰੇ,",
+      "start_time": 285.179,
+      "end_time": 292.168
     },
     {
-      "title": "ਰਾਚਹਿ ਦਾਨਿ ਨ ਨਾਇ।",
       "section_id": "section-31",
-      "start_time": 292168,
-      "end_time": 300069,
-      "verified": true,
-      "line_id": "SGMH"
+      "transcript": "ਰਾਚਹਿ ਦਾਨਿ ਨ ਨਾਇ।",
+      "start_time": 292.168,
+      "end_time": 300.069
     }
   ]
 }

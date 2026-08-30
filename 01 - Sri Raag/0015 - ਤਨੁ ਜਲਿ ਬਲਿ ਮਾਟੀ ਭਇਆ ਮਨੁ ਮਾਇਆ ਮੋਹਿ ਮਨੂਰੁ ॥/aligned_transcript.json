@@ -2,252 +2,190 @@
   "audio_file": "014 A Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ",
       "section_id": "section-1",
-      "start_time": 0,
-      "end_time": 10718,
-      "verified": true,
-      "line_id": "YE2H"
+      "transcript": "ਸਿਰੀਰਾਗੁ",
+      "start_time": 0.0,
+      "end_time": 10.718
     },
     {
-      "title": "ਮਹਲ ਪਹਿਲਾ",
       "section_id": "section-2",
-      "start_time": 10718,
-      "end_time": 18437,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਹਲ ਪਹਿਲਾ",
+      "start_time": 10.718,
+      "end_time": 18.437
     },
     {
-      "title": "ਤਨੁ ਜਲਿ ਬਲਿ ਮਾਟੀ ਭਇਆ",
       "section_id": "section-3",
-      "start_time": 31236,
-      "end_time": 38079,
-      "verified": true,
-      "line_id": "D4SH"
+      "transcript": "ਤਨੁ ਜਲਿ ਬਲਿ ਮਾਟੀ ਭਇਆ",
+      "start_time": 31.236,
+      "end_time": 38.079
     },
     {
-      "title": "ਮਨੁ ਮਾਇਆ ਮੋਹਿ ਮਨੂਰੁ",
       "section_id": "section-4",
-      "start_time": 38079,
-      "end_time": 45130,
-      "verified": true,
-      "line_id": "D4SH"
+      "transcript": "ਮਨੁ ਮਾਇਆ ਮੋਹਿ ਮਨੂਰੁ",
+      "start_time": 38.079,
+      "end_time": 45.13
     },
     {
-      "title": "ਅਉਗਣ ਫਿਰਿ ਲਾਗੂ ਭਏ",
       "section_id": "section-5",
-      "start_time": 45130,
-      "end_time": 52108,
-      "verified": true,
-      "line_id": "MG3U"
+      "transcript": "ਅਉਗਣ ਫਿਰਿ ਲਾਗੂ ਭਏ",
+      "start_time": 45.13,
+      "end_time": 52.108
     },
     {
-      "title": "ਕੂਰਿ ਵਜਾਵੈ ਤੂਰੁ।",
       "section_id": "section-6",
-      "start_time": 52108,
-      "end_time": 59168,
-      "verified": true,
-      "line_id": "MG3U"
+      "transcript": "ਕੂਰਿ ਵਜਾਵੈ ਤੂਰੁ।",
+      "start_time": 52.108,
+      "end_time": 59.168
     },
     {
-      "title": "ਬਿਨੁ ਸਬਦੈ ਭਰਮਾਈਐ",
       "section_id": "section-7",
-      "start_time": 59168,
-      "end_time": 66321,
-      "verified": true,
-      "line_id": "3QX9"
+      "transcript": "ਬਿਨੁ ਸਬਦੈ ਭਰਮਾਈਐ",
+      "start_time": 59.168,
+      "end_time": 66.321
     },
     {
-      "title": "ਦੁਬਿਧਾ ਡੋਬੇ ਪੂਰੁ",
       "section_id": "section-8",
-      "start_time": 66321,
-      "end_time": 73250,
-      "verified": true,
-      "line_id": "3QX9"
+      "transcript": "ਦੁਬਿਧਾ ਡੋਬੇ ਪੂਰੁ",
+      "start_time": 66.321,
+      "end_time": 73.25
     },
     {
-      "title": "ਮਨ ਰੇ, ਸਬਦਿ ਤਰਹੁ ਚਿਤੁ ਲਾਇ।",
       "section_id": "section-9",
-      "start_time": 73250,
-      "end_time": 87236,
-      "verified": true,
-      "line_id": "GUJ3"
+      "transcript": "ਮਨ ਰੇ, ਸਬਦਿ ਤਰਹੁ ਚਿਤੁ ਲਾਇ।",
+      "start_time": 73.25,
+      "end_time": 87.236
     },
     {
-      "title": "ਜਿਨਿ ਗੁਰਮੁਖਿ ਨਾਮੁ ਨ ਬੂਝਿਆ।",
       "section_id": "section-10",
-      "start_time": 87236,
-      "end_time": 94328,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਜਿਨਿ ਗੁਰਮੁਖਿ ਨਾਮੁ ਨ ਬੂਝਿਆ।",
+      "start_time": 87.236,
+      "end_time": 94.328
     },
     {
-      "title": "ਮਰਿ ਜਨਮੈ ਆਵੈ ਜਾਇ ਰਹਾਉ।",
       "section_id": "section-11",
-      "start_time": 94328,
-      "end_time": 105066,
-      "verified": true,
-      "line_id": "LL66"
+      "transcript": "ਮਰਿ ਜਨਮੈ ਆਵੈ ਜਾਇ ਰਹਾਉ।",
+      "start_time": 94.328,
+      "end_time": 105.066
     },
     {
-      "title": "ਤਨੁ ਸੂਚਾ ਸੋ ਆਖੀਐ",
       "section_id": "section-12",
-      "start_time": 122856,
-      "end_time": 129905,
-      "verified": true,
-      "line_id": "D91J"
+      "transcript": "ਤਨੁ ਸੂਚਾ ਸੋ ਆਖੀਐ",
+      "start_time": 122.856,
+      "end_time": 129.905
     },
     {
-      "title": "ਜਿਸੁ ਮਹਿ ਸਾਚਾ ਨਾਉ",
       "section_id": "section-13",
-      "start_time": 129905,
-      "end_time": 136846,
-      "verified": true,
-      "line_id": "D91J"
+      "transcript": "ਜਿਸੁ ਮਹਿ ਸਾਚਾ ਨਾਉ",
+      "start_time": 129.905,
+      "end_time": 136.846
     },
     {
-      "title": "ਭੈ ਸਚਿ ਰਾਤੀ ਦੇਹੁਰੀ",
       "section_id": "section-14",
-      "start_time": 136846,
-      "end_time": 144007,
-      "verified": true,
-      "line_id": "P6DF"
+      "transcript": "ਭੈ ਸਚਿ ਰਾਤੀ ਦੇਹੁਰੀ",
+      "start_time": 136.846,
+      "end_time": 144.007
     },
     {
-      "title": "ਜਿਹਵਾ ਸਚੁ ਸੁਆਉ",
       "section_id": "section-15",
-      "start_time": 144007,
-      "end_time": 150886,
-      "verified": true,
-      "line_id": "P6DF"
+      "transcript": "ਜਿਹਵਾ ਸਚੁ ਸੁਆਉ",
+      "start_time": 144.007,
+      "end_time": 150.886
     },
     {
-      "title": "ਸਚੀ ਨਦਰਿ ਨਿਹਾਲੀਐ",
       "section_id": "section-16",
-      "start_time": 150886,
-      "end_time": 158057,
-      "verified": true,
-      "line_id": "4NTZ"
+      "transcript": "ਸਚੀ ਨਦਰਿ ਨਿਹਾਲੀਐ",
+      "start_time": 150.886,
+      "end_time": 158.057
     },
     {
-      "title": "ਬਹੁੜਿ ਨ ਪਾਵੈ ਤਾਉ",
       "section_id": "section-17",
-      "start_time": 158057,
-      "end_time": 165039,
-      "verified": true,
-      "line_id": "4NTZ"
+      "transcript": "ਬਹੁੜਿ ਨ ਪਾਵੈ ਤਾਉ",
+      "start_time": 158.057,
+      "end_time": 165.039
     },
     {
-      "title": "ਸਾਚੇ ਤੇ ਪਵਨਾ ਭਇਆ।",
       "section_id": "section-18",
-      "start_time": 179189,
-      "end_time": 186048,
-      "verified": true,
-      "line_id": "JV9Y"
+      "transcript": "ਸਾਚੇ ਤੇ ਪਵਨਾ ਭਇਆ।",
+      "start_time": 179.189,
+      "end_time": 186.048
     },
     {
-      "title": "ਪਵਨੈ ਤੇ ਜਲੁ ਹੋਇ",
       "section_id": "section-19",
-      "start_time": 186048,
-      "end_time": 192910,
-      "verified": true,
-      "line_id": "JV9Y"
+      "transcript": "ਪਵਨੈ ਤੇ ਜਲੁ ਹੋਇ",
+      "start_time": 186.048,
+      "end_time": 192.91
     },
     {
-      "title": "ਜਲ ਤੇ ਤ੍ਰਿਭਵਣੁ ਸਾਜਿਆ",
       "section_id": "section-20",
-      "start_time": 192910,
-      "end_time": 200105,
-      "verified": true,
-      "line_id": "WHCE"
+      "transcript": "ਜਲ ਤੇ ਤ੍ਰਿਭਵਣੁ ਸਾਜਿਆ",
+      "start_time": 192.91,
+      "end_time": 200.105
     },
     {
-      "title": "ਘਟਿ ਘਟਿ ਜੋਤਿ ਸਮੋਇ",
       "section_id": "section-21",
-      "start_time": 200105,
-      "end_time": 206999,
-      "verified": true,
-      "line_id": "WHCE"
+      "transcript": "ਘਟਿ ਘਟਿ ਜੋਤਿ ਸਮੋਇ",
+      "start_time": 200.105,
+      "end_time": 206.999
     },
     {
-      "title": "ਨਿਰਮਲੁ ਮੈਲਾ ਨਾ ਥੀਐ",
       "section_id": "section-22",
-      "start_time": 206999,
-      "end_time": 213926,
-      "verified": true,
-      "line_id": "E32Q"
+      "transcript": "ਨਿਰਮਲੁ ਮੈਲਾ ਨਾ ਥੀਐ",
+      "start_time": 206.999,
+      "end_time": 213.926
     },
     {
-      "title": "ਸਬਦਿ ਰਤੇ ਪਤਿ ਹੋਇ",
       "section_id": "section-23",
-      "start_time": 213926,
-      "end_time": 220997,
-      "verified": true,
-      "line_id": "E32Q"
+      "transcript": "ਸਬਦਿ ਰਤੇ ਪਤਿ ਹੋਇ",
+      "start_time": 213.926,
+      "end_time": 220.997
     },
     {
-      "title": "ਇਹੁ ਮਨੁ ਸਾਚਿ ਸੰਤੋਖਿਆ",
       "section_id": "section-24",
-      "start_time": 228064,
-      "end_time": 235116,
-      "verified": true,
-      "line_id": "6XHD"
+      "transcript": "ਇਹੁ ਮਨੁ ਸਾਚਿ ਸੰਤੋਖਿਆ",
+      "start_time": 228.064,
+      "end_time": 235.116
     },
     {
-      "title": "ਨਦਰਿ ਕਰੇ ਤਿਸੁ ਮਾਹਿ",
       "section_id": "section-25",
-      "start_time": 235116,
-      "end_time": 242092,
-      "verified": true,
-      "line_id": "6XHD"
+      "transcript": "ਨਦਰਿ ਕਰੇ ਤਿਸੁ ਮਾਹਿ",
+      "start_time": 235.116,
+      "end_time": 242.092
     },
     {
-      "title": "ਪੰਚ ਭੂਤ ਸਚਿ ਭੈ ਰਤੇ",
       "section_id": "section-26",
-      "start_time": 242092,
-      "end_time": 249285,
-      "verified": true,
-      "line_id": "VXDY"
+      "transcript": "ਪੰਚ ਭੂਤ ਸਚਿ ਭੈ ਰਤੇ",
+      "start_time": 242.092,
+      "end_time": 249.285
     },
     {
-      "title": "ਜੋਤਿ ਸਚੀ ਮਨ ਮਾਹਿ",
       "section_id": "section-27",
-      "start_time": 249285,
-      "end_time": 256226,
-      "verified": true,
-      "line_id": "VXDY"
+      "transcript": "ਜੋਤਿ ਸਚੀ ਮਨ ਮਾਹਿ",
+      "start_time": 249.285,
+      "end_time": 256.226
     },
     {
-      "title": "ਨਾਨਕ ਅਉਗਣ ਵੀਸਰੇ",
       "section_id": "section-28",
-      "start_time": 256226,
-      "end_time": 263452,
-      "verified": true,
-      "line_id": "PUSL"
+      "transcript": "ਨਾਨਕ ਅਉਗਣ ਵੀਸਰੇ",
+      "start_time": 256.226,
+      "end_time": 263.452
     },
     {
-      "title": "ਗੁਰਿ ਰਾਖੇ ਪਤਿ ਤਾਹਿ।",
       "section_id": "section-29",
-      "start_time": 263452,
-      "end_time": 270509,
-      "verified": true,
-      "line_id": "PUSL"
+      "transcript": "ਗੁਰਿ ਰਾਖੇ ਪਤਿ ਤਾਹਿ।",
+      "start_time": 263.452,
+      "end_time": 270.509
     },
     {
-      "title": "ਨਾਨਕ ਅਉਗਣ ਵੀਸਰੇ।",
       "section_id": "section-30",
-      "start_time": 284224,
-      "end_time": 291674,
-      "verified": true,
-      "line_id": "PUSL"
+      "transcript": "ਨਾਨਕ ਅਉਗਣ ਵੀਸਰੇ।",
+      "start_time": 284.224,
+      "end_time": 291.674
     },
     {
-      "title": "ਗੁਰਿ ਰਾਖੇ ਪਤਿ ਤਾਹਿ।",
       "section_id": "section-31",
-      "start_time": 291674,
-      "end_time": 299490,
-      "verified": true,
-      "line_id": "PUSL"
+      "transcript": "ਗੁਰਿ ਰਾਖੇ ਪਤਿ ਤਾਹਿ।",
+      "start_time": 291.674,
+      "end_time": 299.49
     }
   ]
 }

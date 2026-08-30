@@ -2,252 +2,190 @@
   "audio_file": "010 B Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ",
       "section_id": "section-1",
-      "start_time": 1022,
-      "end_time": 10429,
-      "verified": true,
-      "line_id": "6L29"
+      "transcript": "ਸਿਰੀਰਾਗੁ",
+      "start_time": 1.022,
+      "end_time": 10.429
     },
     {
-      "title": "ਮਹਲਾ, ਪਹਿਲਾ,",
       "section_id": "section-2",
-      "start_time": 10429,
-      "end_time": 19391,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਹਲਾ, ਪਹਿਲਾ,",
+      "start_time": 10.429,
+      "end_time": 19.391
     },
     {
-      "title": "ਅਮਲੁ ਗਲੋਲਾ, ਕੂੜ ਕਾ,",
       "section_id": "section-3",
-      "start_time": 37728,
-      "end_time": 45480,
-      "verified": true,
-      "line_id": "KR2R"
+      "transcript": "ਅਮਲੁ ਗਲੋਲਾ, ਕੂੜ ਕਾ,",
+      "start_time": 37.728,
+      "end_time": 45.48
     },
     {
-      "title": "ਦਿਤਾ ਦੇਵਣਹਾਰਿ",
       "section_id": "section-4",
-      "start_time": 45480,
-      "end_time": 52935,
-      "verified": true,
-      "line_id": "KR2R"
+      "transcript": "ਦਿਤਾ ਦੇਵਣਹਾਰਿ",
+      "start_time": 45.48,
+      "end_time": 52.935
     },
     {
-      "title": "ਮਤੀ ਮਰਣੁ, ਵਿਸਾਰਿਆ,",
       "section_id": "section-5",
-      "start_time": 52935,
-      "end_time": 61028,
-      "verified": true,
-      "line_id": "GJ0W"
+      "transcript": "ਮਤੀ ਮਰਣੁ, ਵਿਸਾਰਿਆ,",
+      "start_time": 52.935,
+      "end_time": 61.028
     },
     {
-      "title": "ਖੁਸੀ ਕੀਤੀ ਦਿਨ ਚਾਰਿ",
       "section_id": "section-6",
-      "start_time": 61028,
-      "end_time": 68412,
-      "verified": true,
-      "line_id": "GJ0W"
+      "transcript": "ਖੁਸੀ ਕੀਤੀ ਦਿਨ ਚਾਰਿ",
+      "start_time": 61.028,
+      "end_time": 68.412
     },
     {
-      "title": "ਸਚੁ ਮਿਲਿਆ ਤਿਨ ਸੋਫੀਆ",
       "section_id": "section-7",
-      "start_time": 68412,
-      "end_time": 76036,
-      "verified": true,
-      "line_id": "9PHL"
+      "transcript": "ਸਚੁ ਮਿਲਿਆ ਤਿਨ ਸੋਫੀਆ",
+      "start_time": 68.412,
+      "end_time": 76.036
     },
     {
-      "title": "ਰਾਖਣ ਕਉ ਦਰਵਾਰੁ",
       "section_id": "section-8",
-      "start_time": 76036,
-      "end_time": 83467,
-      "verified": true,
-      "line_id": "9PHL"
+      "transcript": "ਰਾਖਣ ਕਉ ਦਰਵਾਰੁ",
+      "start_time": 76.036,
+      "end_time": 83.467
     },
     {
-      "title": "ਨਾਨਕ ਸਾਚੇ, ਕਉ ਸਚੁ ਜਾਣੁ,",
       "section_id": "section-9",
-      "start_time": 83467,
-      "end_time": 91016,
-      "verified": true,
-      "line_id": "GK8P"
+      "transcript": "ਨਾਨਕ ਸਾਚੇ, ਕਉ ਸਚੁ ਜਾਣੁ,",
+      "start_time": 83.467,
+      "end_time": 91.016
     },
     {
-      "title": "ਜਿਤੁ ਸੇਵਿਐ ਸੁਖੁ, ਪਾਈਐ ਤੇਰੀ,",
       "section_id": "section-10",
-      "start_time": 91016,
-      "end_time": 98579,
-      "verified": true,
-      "line_id": "71N1"
+      "transcript": "ਜਿਤੁ ਸੇਵਿਐ ਸੁਖੁ, ਪਾਈਐ ਤੇਰੀ,",
+      "start_time": 91.016,
+      "end_time": 98.579
     },
     {
-      "title": "ਦਰਗਹ ਚਲੈ ਮਾਣੁ, ਰਹਾਉ,",
       "section_id": "section-11",
-      "start_time": 98579,
-      "end_time": 106485,
-      "verified": true,
-      "line_id": "71N1"
+      "transcript": "ਦਰਗਹ ਚਲੈ ਮਾਣੁ, ਰਹਾਉ,",
+      "start_time": 98.579,
+      "end_time": 106.485
     },
     {
-      "title": "ਸਚੁ ਸਰਾ ਗੁੜ ਬਾਹਰਾ",
       "section_id": "section-12",
-      "start_time": 122609,
-      "end_time": 129973,
-      "verified": true,
-      "line_id": "ZVZE"
+      "transcript": "ਸਚੁ ਸਰਾ ਗੁੜ ਬਾਹਰਾ",
+      "start_time": 122.609,
+      "end_time": 129.973
     },
     {
-      "title": "ਜਿਸੁ ਵਿਚਿ ਸਚਾ ਨਾਉ",
       "section_id": "section-13",
-      "start_time": 129973,
-      "end_time": 137414,
-      "verified": true,
-      "line_id": "ZVZE"
+      "transcript": "ਜਿਸੁ ਵਿਚਿ ਸਚਾ ਨਾਉ",
+      "start_time": 129.973,
+      "end_time": 137.414
     },
     {
-      "title": "ਸੁਣਹਿ ਵਖਾਣਹਿ, ਜੇਤੜੇ ਹਉ,",
       "section_id": "section-14",
-      "start_time": 137414,
-      "end_time": 145065,
-      "verified": true,
-      "line_id": "BDUG"
+      "transcript": "ਸੁਣਹਿ ਵਖਾਣਹਿ, ਜੇਤੜੇ ਹਉ,",
+      "start_time": 137.414,
+      "end_time": 145.065
     },
     {
-      "title": "ਤਿਨ ਬਲਿਹਾਰੈ, ਜਾਉ,",
       "section_id": "section-15",
-      "start_time": 145065,
-      "end_time": 152264,
-      "verified": true,
-      "line_id": "BDUG"
+      "transcript": "ਤਿਨ ਬਲਿਹਾਰੈ, ਜਾਉ,",
+      "start_time": 145.065,
+      "end_time": 152.264
     },
     {
-      "title": "ਤਾ ਮਨੁ ਖੀਵਾ, ਜਾਣੀਐ,",
       "section_id": "section-16",
-      "start_time": 152264,
-      "end_time": 159816,
-      "verified": true,
-      "line_id": "0K0T"
+      "transcript": "ਤਾ ਮਨੁ ਖੀਵਾ, ਜਾਣੀਐ,",
+      "start_time": 152.264,
+      "end_time": 159.816
     },
     {
-      "title": "ਜਾ ਮਹਲੀ ਪਾਏ ਥਾਉ",
       "section_id": "section-17",
-      "start_time": 159816,
-      "end_time": 167302,
-      "verified": true,
-      "line_id": "0K0T"
+      "transcript": "ਜਾ ਮਹਲੀ ਪਾਏ ਥਾਉ",
+      "start_time": 159.816,
+      "end_time": 167.302
     },
     {
-      "title": "ਨਾਉ ਨੀਰੁ ਚੰਗਿਆਈਆ।",
       "section_id": "section-18",
-      "start_time": 174981,
-      "end_time": 182172,
-      "verified": true,
-      "line_id": "LV2F"
+      "transcript": "ਨਾਉ ਨੀਰੁ ਚੰਗਿਆਈਆ।",
+      "start_time": 174.981,
+      "end_time": 182.172
     },
     {
-      "title": "ਸਤੁ ਪਰਮਲੁ ਤਨਿ, ਵਾਸੁ,",
       "section_id": "section-19",
-      "start_time": 182172,
-      "end_time": 189679,
-      "verified": true,
-      "line_id": "LV2F"
+      "transcript": "ਸਤੁ ਪਰਮਲੁ ਤਨਿ, ਵਾਸੁ,",
+      "start_time": 182.172,
+      "end_time": 189.679
     },
     {
-      "title": "ਤਾ ਮੁਖੁ ਹੋਵੈ ਉਜਲਾ",
       "section_id": "section-20",
-      "start_time": 189679,
-      "end_time": 197163,
-      "verified": true,
-      "line_id": "77N7"
+      "transcript": "ਤਾ ਮੁਖੁ ਹੋਵੈ ਉਜਲਾ",
+      "start_time": 189.679,
+      "end_time": 197.163
     },
     {
-      "title": "ਲਖ ਦਾਤੀ ਇਕ ਦਾਤਿ।",
       "section_id": "section-21",
-      "start_time": 197163,
-      "end_time": 204429,
-      "verified": true,
-      "line_id": "77N7"
+      "transcript": "ਲਖ ਦਾਤੀ ਇਕ ਦਾਤਿ।",
+      "start_time": 197.163,
+      "end_time": 204.429
     },
     {
-      "title": "ਦੂਖ ਤਿਸੈ ਪਹਿ ਆਖੀਅਹਿ",
       "section_id": "section-22",
-      "start_time": 204429,
-      "end_time": 211832,
-      "verified": true,
-      "line_id": "77N7"
+      "transcript": "ਦੂਖ ਤਿਸੈ ਪਹਿ ਆਖੀਅਹਿ",
+      "start_time": 204.429,
+      "end_time": 211.832
     },
     {
-      "title": "ਸੂਖ ਜਿਸੈ ਹੀ ਪਾਸਿ।",
       "section_id": "section-23",
-      "start_time": 211832,
-      "end_time": 219410,
-      "verified": true,
-      "line_id": "WWCP"
+      "transcript": "ਸੂਖ ਜਿਸੈ ਹੀ ਪਾਸਿ।",
+      "start_time": 211.832,
+      "end_time": 219.41
     },
     {
-      "title": "ਸੋ ਕਿਉ ਮਨਹੁ ਵਿਸਾਰੀਐ।",
       "section_id": "section-24",
-      "start_time": 227193,
-      "end_time": 234681,
-      "verified": true,
-      "line_id": "608C"
+      "transcript": "ਸੋ ਕਿਉ ਮਨਹੁ ਵਿਸਾਰੀਐ।",
+      "start_time": 227.193,
+      "end_time": 234.681
     },
     {
-      "title": "ਜਾ ਕੇ ਜੀਅ ਪਰਾਣ",
       "section_id": "section-25",
-      "start_time": 234681,
-      "end_time": 242142,
-      "verified": true,
-      "line_id": "HL02"
+      "transcript": "ਜਾ ਕੇ ਜੀਅ ਪਰਾਣ",
+      "start_time": 234.681,
+      "end_time": 242.142
     },
     {
-      "title": "ਤਿਸੁ ਵਿਣੁ ਸਭੁ ਅਪਵਿਤ੍ਰੁ ਹੈ",
       "section_id": "section-26",
-      "start_time": 242142,
-      "end_time": 249880,
-      "verified": true,
-      "line_id": "RQE4"
+      "transcript": "ਤਿਸੁ ਵਿਣੁ ਸਭੁ ਅਪਵਿਤ੍ਰੁ ਹੈ",
+      "start_time": 242.142,
+      "end_time": 249.88
     },
     {
-      "title": "ਜੇਤਾ ਪੈਨਣੁ ਖਾਣੁ।",
       "section_id": "section-27",
-      "start_time": 249880,
-      "end_time": 257343,
-      "verified": true,
-      "line_id": "RQE4"
+      "transcript": "ਜੇਤਾ ਪੈਨਣੁ ਖਾਣੁ।",
+      "start_time": 249.88,
+      "end_time": 257.343
     },
     {
-      "title": "ਹੋਰਿ ਗਲਾਂ ਸਭਿ ਕੂੜੀਆ।",
       "section_id": "section-28",
-      "start_time": 257343,
-      "end_time": 264871,
-      "verified": true,
-      "line_id": "X0FU"
+      "transcript": "ਹੋਰਿ ਗਲਾਂ ਸਭਿ ਕੂੜੀਆ।",
+      "start_time": 257.343,
+      "end_time": 264.871
     },
     {
-      "title": "ਤੁਧੁ ਭਾਵੈ ਪਰਵਾਣੁ",
       "section_id": "section-29",
-      "start_time": 264871,
-      "end_time": 272337,
-      "verified": true,
-      "line_id": "X0FU"
+      "transcript": "ਤੁਧੁ ਭਾਵੈ ਪਰਵਾਣੁ",
+      "start_time": 264.871,
+      "end_time": 272.337
     },
     {
-      "title": "ਹੋਰਿ ਗਲਾਂ ਸਭਿ ਕੂੜੀਆ।",
       "section_id": "section-30",
-      "start_time": 287472,
-      "end_time": 295030,
-      "verified": true,
-      "line_id": "X0FU"
+      "transcript": "ਹੋਰਿ ਗਲਾਂ ਸਭਿ ਕੂੜੀਆ।",
+      "start_time": 287.472,
+      "end_time": 295.03
     },
     {
-      "title": "ਤੁਧੁ ਭਾਵੈ ਪਰਵਾਣੁ।",
       "section_id": "section-31",
-      "start_time": 295030,
-      "end_time": 302911,
-      "verified": true,
-      "line_id": "X0FU"
+      "transcript": "ਤੁਧੁ ਭਾਵੈ ਪਰਵਾਣੁ।",
+      "start_time": 295.03,
+      "end_time": 302.911
     }
   ]
 }

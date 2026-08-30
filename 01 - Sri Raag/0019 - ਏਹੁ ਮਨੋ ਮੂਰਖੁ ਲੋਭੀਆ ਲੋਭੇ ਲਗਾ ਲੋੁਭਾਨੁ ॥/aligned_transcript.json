@@ -2,260 +2,196 @@
   "audio_file": "015 B Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 1038,
-      "end_time": 8086,
-      "verified": true,
-      "line_id": "U5G4"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 1.038,
+      "end_time": 8.086
     },
     {
-      "title": "ਆ।",
       "section_id": "section-2",
-      "start_time": 8303,
-      "end_time": 14675,
-      "verified": true,
-      "line_id": "3R10"
+      "transcript": "ਆ।",
+      "start_time": 8.303,
+      "end_time": 14.675
     },
     {
-      "title": "ਏਹੁ ਮਨੋ ਮੂਰਖੁ ਲੋਭੀਆ",
       "section_id": "section-3",
-      "start_time": 30000,
-      "end_time": 36603,
-      "verified": true,
-      "line_id": "3R10"
+      "transcript": "ਏਹੁ ਮਨੋ ਮੂਰਖੁ ਲੋਭੀਆ",
+      "start_time": 30.0,
+      "end_time": 36.603
     },
     {
-      "title": "ਲੋਭੇ ਲਗਾ ਲੁੋਭਾਨੁ",
       "section_id": "section-4",
-      "start_time": 36603,
-      "end_time": 43590,
-      "verified": true,
-      "line_id": "3R10"
+      "transcript": "ਲੋਭੇ ਲਗਾ ਲੁੋਭਾਨੁ",
+      "start_time": 36.603,
+      "end_time": 43.59
     },
     {
-      "title": "ਸਬਦਿ ਨ ਭੀਜੈ ਸਾਕਤਾ",
       "section_id": "section-5",
-      "start_time": 43590,
-      "end_time": 50648,
-      "verified": true,
-      "line_id": "FGSV"
+      "transcript": "ਸਬਦਿ ਨ ਭੀਜੈ ਸਾਕਤਾ",
+      "start_time": 43.59,
+      "end_time": 50.648
     },
     {
-      "title": "ਦੁਰਮਤਿ ਆਵਨੁ ਜਾਨੁ",
       "section_id": "section-6",
-      "start_time": 50648,
-      "end_time": 57603,
-      "verified": true,
-      "line_id": "FGSV"
+      "transcript": "ਦੁਰਮਤਿ ਆਵਨੁ ਜਾਨੁ",
+      "start_time": 50.648,
+      "end_time": 57.603
     },
     {
-      "title": "ਸਾਧੂ ਸਤਗੁਰੁ ਜੇ ਮਿਲੈ",
       "section_id": "section-7",
-      "start_time": 57603,
-      "end_time": 64086,
-      "verified": true,
-      "line_id": "65LS"
+      "transcript": "ਸਾਧੂ ਸਤਗੁਰੁ ਜੇ ਮਿਲੈ",
+      "start_time": 57.603,
+      "end_time": 64.086
     },
     {
-      "title": "ਤਾ ਪਾਈਐ ਗੁਣੀ ਨਿਧਾਨੁ",
       "section_id": "section-8",
-      "start_time": 64086,
-      "end_time": 71015,
-      "verified": true,
-      "line_id": "65LS"
+      "transcript": "ਤਾ ਪਾਈਐ ਗੁਣੀ ਨਿਧਾਨੁ",
+      "start_time": 64.086,
+      "end_time": 71.015
     },
     {
-      "title": "ਮਨ ਰੇ,",
       "section_id": "section-9",
-      "start_time": 78516,
-      "end_time": 85084,
-      "verified": true,
-      "line_id": "DTPT"
+      "transcript": "ਮਨ ਰੇ,",
+      "start_time": 78.516,
+      "end_time": 85.084
     },
     {
-      "title": "ਹਉਮੈ ਛੋਡਿ ਗੁਮਾਨੁ।",
       "section_id": "section-10",
-      "start_time": 85084,
-      "end_time": 92144,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਹਉਮੈ ਛੋਡਿ ਗੁਮਾਨੁ।",
+      "start_time": 85.084,
+      "end_time": 92.144
     },
     {
-      "title": "ਹਰਿ ਗੁਰੁ ਸਰਵਰੁ ਸੇਵਿ ਤੂ",
       "section_id": "section-11",
-      "start_time": 92144,
-      "end_time": 98917,
-      "verified": true,
-      "line_id": "J5QZ"
+      "transcript": "ਹਰਿ ਗੁਰੁ ਸਰਵਰੁ ਸੇਵਿ ਤੂ",
+      "start_time": 92.144,
+      "end_time": 98.917
     },
     {
-      "title": "ਪਾਵਹਿ ਦਰਗਹ ਮਾਨੁ ਰਹਾਉ",
       "section_id": "section-12",
-      "start_time": 98917,
-      "end_time": 107409,
-      "verified": true,
-      "line_id": "J5QZ"
+      "transcript": "ਪਾਵਹਿ ਦਰਗਹ ਮਾਨੁ ਰਹਾਉ",
+      "start_time": 98.917,
+      "end_time": 107.409
     },
     {
-      "title": "ਰਾਮ ਨਾਮੁ ਜਪਿ ਦਿਨਸੁ ਰਾਤਿ",
       "section_id": "section-13",
-      "start_time": 112894,
-      "end_time": 119604,
-      "verified": true,
-      "line_id": "DKKP"
+      "transcript": "ਰਾਮ ਨਾਮੁ ਜਪਿ ਦਿਨਸੁ ਰਾਤਿ",
+      "start_time": 112.894,
+      "end_time": 119.604
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਹਰਿ ਨਾਮ ਧਨੁ।",
       "section_id": "section-14",
-      "start_time": 119604,
-      "end_time": 126281,
-      "verified": true,
-      "line_id": "K4VQ"
+      "transcript": "ਗੁਰਮੁਖਿ ਹਰਿ ਨਾਮ ਧਨੁ।",
+      "start_time": 119.604,
+      "end_time": 126.281
     },
     {
-      "title": "ਸਭਿ ਸੁਖ ਹਰਿ ਰਸ ਭੋਗਣੇ।",
       "section_id": "section-15",
-      "start_time": 126617,
-      "end_time": 133515,
-      "verified": true,
-      "line_id": "J5HC"
+      "transcript": "ਸਭਿ ਸੁਖ ਹਰਿ ਰਸ ਭੋਗਣੇ।",
+      "start_time": 126.617,
+      "end_time": 133.515
     },
     {
-      "title": "ਸੰਤ ਸਭਾ ਮਿਲਿ ਗਿਆਨੁ।",
       "section_id": "section-16",
-      "start_time": 133515,
-      "end_time": 140186,
-      "verified": true,
-      "line_id": "J5HC"
+      "transcript": "ਸੰਤ ਸਭਾ ਮਿਲਿ ਗਿਆਨੁ।",
+      "start_time": 133.515,
+      "end_time": 140.186
     },
     {
-      "title": "ਨਿਤਿ ਅਹਿਨਿਸਿ ਹਰਿ ਪ੍ਰਭੁ ਸੇਵਿਆ।",
       "section_id": "section-17",
-      "start_time": 140186,
-      "end_time": 146764,
-      "verified": true,
-      "line_id": "SDSD"
+      "transcript": "ਨਿਤਿ ਅਹਿਨਿਸਿ ਹਰਿ ਪ੍ਰਭੁ ਸੇਵਿਆ।",
+      "start_time": 140.186,
+      "end_time": 146.764
     },
     {
-      "title": "ਸਤਗੁਰਿ ਦੀਆ ਨਾਮੁ।",
       "section_id": "section-18",
-      "start_time": 146764,
-      "end_time": 154126,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਸਤਗੁਰਿ ਦੀਆ ਨਾਮੁ।",
+      "start_time": 146.764,
+      "end_time": 154.126
     },
     {
-      "title": "ਕੂਕਰ ਕੂੜੁ ਕਮਾਈਐ।",
       "section_id": "section-19",
-      "start_time": 160743,
-      "end_time": 167014,
-      "verified": true,
-      "line_id": "JGKB"
+      "transcript": "ਕੂਕਰ ਕੂੜੁ ਕਮਾਈਐ।",
+      "start_time": 160.743,
+      "end_time": 167.014
     },
     {
-      "title": "ਗੁਰ ਨਿੰਦਾ ਪਚੈ ਪਚਾਨੁ।",
       "section_id": "section-20",
-      "start_time": 167014,
-      "end_time": 174147,
-      "verified": true,
-      "line_id": "JGKB"
+      "transcript": "ਗੁਰ ਨਿੰਦਾ ਪਚੈ ਪਚਾਨੁ।",
+      "start_time": 167.014,
+      "end_time": 174.147
     },
     {
-      "title": "ਭਰਮੇ ਭੂਲਾ ਦੁਖੁ ਘਣੋ।",
       "section_id": "section-21",
-      "start_time": 174147,
-      "end_time": 180503,
-      "verified": true,
-      "line_id": "332L"
+      "transcript": "ਭਰਮੇ ਭੂਲਾ ਦੁਖੁ ਘਣੋ।",
+      "start_time": 174.147,
+      "end_time": 180.503
     },
     {
-      "title": "ਜਮੁ ਮਾਰਿ ਕਰੈ ਖੁਲਹਾਨੁ।",
       "section_id": "section-22",
-      "start_time": 180503,
-      "end_time": 187872,
-      "verified": true,
-      "line_id": "332L"
+      "transcript": "ਜਮੁ ਮਾਰਿ ਕਰੈ ਖੁਲਹਾਨੁ।",
+      "start_time": 180.503,
+      "end_time": 187.872
     },
     {
-      "title": "ਮਨਮੁਖਿ ਸੁਖੁ ਨ ਪਾਈਐ।",
       "section_id": "section-23",
-      "start_time": 187872,
-      "end_time": 194786,
-      "verified": true,
-      "line_id": "C02H"
+      "transcript": "ਮਨਮੁਖਿ ਸੁਖੁ ਨ ਪਾਈਐ।",
+      "start_time": 187.872,
+      "end_time": 194.786
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਸੁਖੁ ਸੁਭਾਨੁ।",
       "section_id": "section-24",
-      "start_time": 194786,
-      "end_time": 201736,
-      "verified": true,
-      "line_id": "C02H"
+      "transcript": "ਗੁਰਮੁਖਿ ਸੁਖੁ ਸੁਭਾਨੁ।",
+      "start_time": 194.786,
+      "end_time": 201.736
     },
     {
-      "title": "ਐਥੈ ਧੰਧੁ ਪਿਟਾਈਐ।",
       "section_id": "section-25",
-      "start_time": 208485,
-      "end_time": 215125,
-      "verified": true,
-      "line_id": "EPMK"
+      "transcript": "ਐਥੈ ਧੰਧੁ ਪਿਟਾਈਐ।",
+      "start_time": 208.485,
+      "end_time": 215.125
     },
     {
-      "title": "ਸਚੁ ਲਿਖਤੁ ਪਰਵਾਨੁ।",
       "section_id": "section-26",
-      "start_time": 215125,
-      "end_time": 222042,
-      "verified": true,
-      "line_id": "EPMK"
+      "transcript": "ਸਚੁ ਲਿਖਤੁ ਪਰਵਾਨੁ।",
+      "start_time": 215.125,
+      "end_time": 222.042
     },
     {
-      "title": "ਹਰਿ ਸਜਣੁ ਗੁਰੁ ਸੇਵਦਾ।",
       "section_id": "section-27",
-      "start_time": 222042,
-      "end_time": 228765,
-      "verified": true,
-      "line_id": "JPJP"
+      "transcript": "ਹਰਿ ਸਜਣੁ ਗੁਰੁ ਸੇਵਦਾ।",
+      "start_time": 222.042,
+      "end_time": 228.765
     },
     {
-      "title": "ਗੁਰ ਕਰਣੀ ਪਰਧਾਨੁ।",
       "section_id": "section-28",
-      "start_time": 228765,
-      "end_time": 235788,
-      "verified": true,
-      "line_id": "JPJP"
+      "transcript": "ਗੁਰ ਕਰਣੀ ਪਰਧਾਨੁ।",
+      "start_time": 228.765,
+      "end_time": 235.788
     },
     {
-      "title": "ਨਾਨਕ ਨਾਮੁ ਨ ਵੀਸਰੈ।",
       "section_id": "section-29",
-      "start_time": 235788,
-      "end_time": 242153,
-      "verified": true,
-      "line_id": "N0J4"
+      "transcript": "ਨਾਨਕ ਨਾਮੁ ਨ ਵੀਸਰੈ।",
+      "start_time": 235.788,
+      "end_time": 242.153
     },
     {
-      "title": "ਕਰਮਿ ਸਚੈ ਨੀਸਾਣੁ।",
       "section_id": "section-30",
-      "start_time": 242153,
-      "end_time": 248914,
-      "verified": true,
-      "line_id": "DHBV"
+      "transcript": "ਕਰਮਿ ਸਚੈ ਨੀਸਾਣੁ।",
+      "start_time": 242.153,
+      "end_time": 248.914
     },
     {
-      "title": "ਨਾਨਕ ਨਾਮੁ ਨ ਵੀਸਰੈ।",
       "section_id": "section-31",
-      "start_time": 262662,
-      "end_time": 269524,
-      "verified": true,
-      "line_id": "N0J4"
+      "transcript": "ਨਾਨਕ ਨਾਮੁ ਨ ਵੀਸਰੈ।",
+      "start_time": 262.662,
+      "end_time": 269.524
     },
     {
-      "title": "ਕਰਮਿ ਸਚੈ ਨੀਸਾਣੁ।",
       "section_id": "section-32",
-      "start_time": 269524,
-      "end_time": 274524,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਕਰਮਿ ਸਚੈ ਨੀਸਾਣੁ।",
+      "start_time": 269.524,
+      "end_time": 274.524
     }
   ]
 }

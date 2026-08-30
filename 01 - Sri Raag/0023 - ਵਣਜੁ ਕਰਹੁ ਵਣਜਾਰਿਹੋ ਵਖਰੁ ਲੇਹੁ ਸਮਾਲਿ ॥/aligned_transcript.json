@@ -2,244 +2,184 @@
   "audio_file": "016 C Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 236,
-      "end_time": 14830,
-      "verified": true,
-      "line_id": "N1P0"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 0.236,
+      "end_time": 14.83
     },
     {
-      "title": "ਵਣਜੁ ਕਰਹੁ ਵਣਜਾਰਿਹੋ",
       "section_id": "section-2",
-      "start_time": 32075,
-      "end_time": 39947,
-      "verified": true,
-      "line_id": "96W6"
+      "transcript": "ਵਣਜੁ ਕਰਹੁ ਵਣਜਾਰਿਹੋ",
+      "start_time": 32.075,
+      "end_time": 39.947
     },
     {
-      "title": "ਵਖਰੁ ਲੇਹੁ ਸਮਾਲਿ",
       "section_id": "section-3",
-      "start_time": 39947,
-      "end_time": 47091,
-      "verified": true,
-      "line_id": "96W6"
+      "transcript": "ਵਖਰੁ ਲੇਹੁ ਸਮਾਲਿ",
+      "start_time": 39.947,
+      "end_time": 47.091
     },
     {
-      "title": "ਤੈਸੀ ਵਸਤੁ ਵਿਸਾਹੀਐ",
       "section_id": "section-4",
-      "start_time": 47091,
-      "end_time": 53972,
-      "verified": true,
-      "line_id": "X7PW"
+      "transcript": "ਤੈਸੀ ਵਸਤੁ ਵਿਸਾਹੀਐ",
+      "start_time": 47.091,
+      "end_time": 53.972
     },
     {
-      "title": "ਜੈਸੀ ਨਿਬਹੈ ਨਾਲਿ",
       "section_id": "section-5",
-      "start_time": 53972,
-      "end_time": 61265,
-      "verified": true,
-      "line_id": "X7PW"
+      "transcript": "ਜੈਸੀ ਨਿਬਹੈ ਨਾਲਿ",
+      "start_time": 53.972,
+      "end_time": 61.265
     },
     {
-      "title": "ਅਗੈ ਸਾਹੁ ਸੁਜਾਣੁ ਹੈ",
       "section_id": "section-6",
-      "start_time": 61265,
-      "end_time": 68238,
-      "verified": true,
-      "line_id": "ZJWW"
+      "transcript": "ਅਗੈ ਸਾਹੁ ਸੁਜਾਣੁ ਹੈ",
+      "start_time": 61.265,
+      "end_time": 68.238
     },
     {
-      "title": "ਲੈਸੀ ਵਸਤੁ ਸਮਾਲਿ",
       "section_id": "section-7",
-      "start_time": 68238,
-      "end_time": 75252,
-      "verified": true,
-      "line_id": "ZJWW"
+      "transcript": "ਲੈਸੀ ਵਸਤੁ ਸਮਾਲਿ",
+      "start_time": 68.238,
+      "end_time": 75.252
     },
     {
-      "title": "ਭਾਈ ਰੇ, ਰਾਮੁ ਕਹਹੁ ਚਿਤੁ ਲਾਇ।",
       "section_id": "section-8",
-      "start_time": 75252,
-      "end_time": 89249,
-      "verified": true,
-      "line_id": "FLB0"
+      "transcript": "ਭਾਈ ਰੇ, ਰਾਮੁ ਕਹਹੁ ਚਿਤੁ ਲਾਇ।",
+      "start_time": 75.252,
+      "end_time": 89.249
     },
     {
-      "title": "ਹਰਿ ਜਸੁ ਵਖਰੁ ਲੈ ਚਲਹੁ",
       "section_id": "section-9",
-      "start_time": 89249,
-      "end_time": 96358,
-      "verified": true,
-      "line_id": "8L9E"
+      "transcript": "ਹਰਿ ਜਸੁ ਵਖਰੁ ਲੈ ਚਲਹੁ",
+      "start_time": 89.249,
+      "end_time": 96.358
     },
     {
-      "title": "ਸਹੁ ਦੇਖੈ ਪਤੀਆਇ ਰਹਾਉ",
       "section_id": "section-10",
-      "start_time": 96358,
-      "end_time": 105588,
-      "verified": true,
-      "line_id": "8L9E"
+      "transcript": "ਸਹੁ ਦੇਖੈ ਪਤੀਆਇ ਰਹਾਉ",
+      "start_time": 96.358,
+      "end_time": 105.588
     },
     {
-      "title": "ਜਿਨਾ ਰਾਸਿ ਨ ਸਚੁ ਹੈ",
       "section_id": "section-11",
-      "start_time": 110463,
-      "end_time": 117473,
-      "verified": true,
-      "line_id": "YVF5"
+      "transcript": "ਜਿਨਾ ਰਾਸਿ ਨ ਸਚੁ ਹੈ",
+      "start_time": 110.463,
+      "end_time": 117.473
     },
     {
-      "title": "ਕਿਉ ਤਿਨਾ ਸੁਖੁ ਹੋਇ",
       "section_id": "section-12",
-      "start_time": 117473,
-      "end_time": 124487,
-      "verified": true,
-      "line_id": "YVF5"
+      "transcript": "ਕਿਉ ਤਿਨਾ ਸੁਖੁ ਹੋਇ",
+      "start_time": 117.473,
+      "end_time": 124.487
     },
     {
-      "title": "ਖੋਟੈ ਵਣਜਿ ਵਣੰਜਿਐ",
       "section_id": "section-13",
-      "start_time": 124487,
-      "end_time": 131436,
-      "verified": true,
-      "line_id": "AFKH"
+      "transcript": "ਖੋਟੈ ਵਣਜਿ ਵਣੰਜਿਐ",
+      "start_time": 124.487,
+      "end_time": 131.436
     },
     {
-      "title": "ਮਨੁ ਤਨੁ ਖੋਟਾ ਹੋਇ",
       "section_id": "section-14",
-      "start_time": 131436,
-      "end_time": 138450,
-      "verified": true,
-      "line_id": "AFKH"
+      "transcript": "ਮਨੁ ਤਨੁ ਖੋਟਾ ਹੋਇ",
+      "start_time": 131.436,
+      "end_time": 138.45
     },
     {
-      "title": "ਫਾਹੀ ਫਾਥੇ ਮਿਰਗ ਜਿਉ",
       "section_id": "section-15",
-      "start_time": 138450,
-      "end_time": 145376,
-      "verified": true,
-      "line_id": "CKSC"
+      "transcript": "ਫਾਹੀ ਫਾਥੇ ਮਿਰਗ ਜਿਉ",
+      "start_time": 138.45,
+      "end_time": 145.376
     },
     {
-      "title": "ਦੂਖੁ ਘਣੋ ਨਿਤ ਰੋਇ",
       "section_id": "section-16",
-      "start_time": 145376,
-      "end_time": 152703,
-      "verified": true,
-      "line_id": "CKSC"
+      "transcript": "ਦੂਖੁ ਘਣੋ ਨਿਤ ਰੋਇ",
+      "start_time": 145.376,
+      "end_time": 152.703
     },
     {
-      "title": "ਖੋਟੇ ਪੋਤੈ ਨਾ ਪਵਹਿ",
       "section_id": "section-17",
-      "start_time": 159436,
-      "end_time": 165910,
-      "verified": true,
-      "line_id": "1G10"
+      "transcript": "ਖੋਟੇ ਪੋਤੈ ਨਾ ਪਵਹਿ",
+      "start_time": 159.436,
+      "end_time": 165.91
     },
     {
-      "title": "ਤਿਨ ਹਰਿ ਗੁਰ ਦਰਸੁ ਨ ਹੋਇ",
       "section_id": "section-18",
-      "start_time": 165910,
-      "end_time": 173384,
-      "verified": true,
-      "line_id": "1G10"
+      "transcript": "ਤਿਨ ਹਰਿ ਗੁਰ ਦਰਸੁ ਨ ਹੋਇ",
+      "start_time": 165.91,
+      "end_time": 173.384
     },
     {
-      "title": "ਖੋਟੇ ਜਾਤਿ ਨ ਪਤਿ ਹੈ",
       "section_id": "section-19",
-      "start_time": 173384,
-      "end_time": 180312,
-      "verified": true,
-      "line_id": "SEQX"
+      "transcript": "ਖੋਟੇ ਜਾਤਿ ਨ ਪਤਿ ਹੈ",
+      "start_time": 173.384,
+      "end_time": 180.312
     },
     {
-      "title": "ਖੋਟਿ ਨ ਸੀਝਸਿ ਕੋਇ",
       "section_id": "section-20",
-      "start_time": 180312,
-      "end_time": 187403,
-      "verified": true,
-      "line_id": "SEQX"
+      "transcript": "ਖੋਟਿ ਨ ਸੀਝਸਿ ਕੋਇ",
+      "start_time": 180.312,
+      "end_time": 187.403
     },
     {
-      "title": "ਖੋਟੇ ਖੋਟੁ ਕਮਾਵਣਾ",
       "section_id": "section-21",
-      "start_time": 187403,
-      "end_time": 194296,
-      "verified": true,
-      "line_id": "VM75"
+      "transcript": "ਖੋਟੇ ਖੋਟੁ ਕਮਾਵਣਾ",
+      "start_time": 187.403,
+      "end_time": 194.296
     },
     {
-      "title": "ਆਇ ਗਇਆ ਪਤਿ ਖੋਇ",
       "section_id": "section-22",
-      "start_time": 194296,
-      "end_time": 201515,
-      "verified": true,
-      "line_id": "VM75"
+      "transcript": "ਆਇ ਗਇਆ ਪਤਿ ਖੋਇ",
+      "start_time": 194.296,
+      "end_time": 201.515
     },
     {
-      "title": "ਨਾਨਕ ਮਨੁ ਸਮਝਾਈਐ",
       "section_id": "section-23",
-      "start_time": 208046,
-      "end_time": 214869,
-      "verified": true,
-      "line_id": "KSMS"
+      "transcript": "ਨਾਨਕ ਮਨੁ ਸਮਝਾਈਐ",
+      "start_time": 208.046,
+      "end_time": 214.869
     },
     {
-      "title": "ਗੁਰ ਕੈ ਸਬਦਿ ਸਾਲਾਹ",
       "section_id": "section-24",
-      "start_time": 214869,
-      "end_time": 221777,
-      "verified": true,
-      "line_id": "KSMS"
+      "transcript": "ਗੁਰ ਕੈ ਸਬਦਿ ਸਾਲਾਹ",
+      "start_time": 214.869,
+      "end_time": 221.777
     },
     {
-      "title": "ਰਾਮ ਨਾਮ ਰੰਗਿ ਰਤਿਆ",
       "section_id": "section-25",
-      "start_time": 221777,
-      "end_time": 228677,
-      "verified": true,
-      "line_id": "GCRN"
+      "transcript": "ਰਾਮ ਨਾਮ ਰੰਗਿ ਰਤਿਆ",
+      "start_time": 221.777,
+      "end_time": 228.677
     },
     {
-      "title": "ਭਾਰੁ ਨ ਭਰਮੁ ਤਿਨਾਹ।",
       "section_id": "section-26",
-      "start_time": 228677,
-      "end_time": 235402,
-      "verified": true,
-      "line_id": "GCRN"
+      "transcript": "ਭਾਰੁ ਨ ਭਰਮੁ ਤਿਨਾਹ।",
+      "start_time": 228.677,
+      "end_time": 235.402
     },
     {
-      "title": "ਹਰਿ ਜਪਿ ਲਾਹਾ ਅਗਲਾ।",
       "section_id": "section-27",
-      "start_time": 235402,
-      "end_time": 242316,
-      "verified": true,
-      "line_id": "3R5B"
+      "transcript": "ਹਰਿ ਜਪਿ ਲਾਹਾ ਅਗਲਾ।",
+      "start_time": 235.402,
+      "end_time": 242.316
     },
     {
-      "title": "ਨਿਰਭਉ ਹਰਿ ਮਨ ਮਾਹ।",
       "section_id": "section-28",
-      "start_time": 242316,
-      "end_time": 249562,
-      "verified": true,
-      "line_id": "3R5B"
+      "transcript": "ਨਿਰਭਉ ਹਰਿ ਮਨ ਮਾਹ।",
+      "start_time": 242.316,
+      "end_time": 249.562
     },
     {
-      "title": "ਹਰਿ ਜਪਿ ਲਾਹਾ ਅਗਲਾ",
       "section_id": "section-29",
-      "start_time": 262736,
-      "end_time": 269677,
-      "verified": true,
-      "line_id": "3R5B"
+      "transcript": "ਹਰਿ ਜਪਿ ਲਾਹਾ ਅਗਲਾ",
+      "start_time": 262.736,
+      "end_time": 269.677
     },
     {
-      "title": "ਨਿਰਭਉ ਹਰਿ ਮਨ ਮਾਹ",
       "section_id": "section-30",
-      "start_time": 269677,
-      "end_time": 278177,
-      "verified": true,
-      "line_id": "3R5B"
+      "transcript": "ਨਿਰਭਉ ਹਰਿ ਮਨ ਮਾਹ",
+      "start_time": 269.677,
+      "end_time": 278.177
     }
   ]
 }

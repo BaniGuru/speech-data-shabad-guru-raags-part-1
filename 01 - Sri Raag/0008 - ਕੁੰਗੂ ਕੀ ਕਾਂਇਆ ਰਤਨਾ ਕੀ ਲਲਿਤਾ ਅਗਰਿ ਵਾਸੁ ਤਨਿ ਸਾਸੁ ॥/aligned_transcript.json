@@ -2,124 +2,94 @@
   "audio_file": "011 B Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 0,
-      "end_time": 16811,
-      "verified": true,
-      "line_id": "28QX"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 0.0,
+      "end_time": 16.811
     },
     {
-      "title": "ਕੁੰਗੂ ਕੀ ਕਾਂਇਆ ਰਤਨਾ ਕੀ ਲਲਿਤਾ, ਅਗਰਿ ਵਾਸੁ ਤਨਿ ਸਾਸੁ।",
       "section_id": "section-2",
-      "start_time": 24166,
-      "end_time": 32745,
-      "verified": true,
-      "line_id": "L30U"
+      "transcript": "ਕੁੰਗੂ ਕੀ ਕਾਂਇਆ ਰਤਨਾ ਕੀ ਲਲਿਤਾ, ਅਗਰਿ ਵਾਸੁ ਤਨਿ ਸਾਸੁ।",
+      "start_time": 24.166,
+      "end_time": 32.745
     },
     {
-      "title": "ਅਠਸਠਿ ਤੀਰਥ ਕਾ ਮੁਖਿ ਟਿਕਾ, ਤਿਤੁ ਘਟਿ ਮਤਿ ਵਿਗਾਸੁ।",
       "section_id": "section-3",
-      "start_time": 32745,
-      "end_time": 41332,
-      "verified": true,
-      "line_id": "TXG1"
+      "transcript": "ਅਠਸਠਿ ਤੀਰਥ ਕਾ ਮੁਖਿ ਟਿਕਾ, ਤਿਤੁ ਘਟਿ ਮਤਿ ਵਿਗਾਸੁ।",
+      "start_time": 32.745,
+      "end_time": 41.332
     },
     {
-      "title": "ਓਤੁ ਮਤੀ ਸਾਲਾਹਣਾ, ਸਚੁ ਨਾਮੁ ਗੁਣਤਾਸੁ।",
       "section_id": "section-4",
-      "start_time": 41332,
-      "end_time": 50082,
-      "verified": true,
-      "line_id": "BKJN"
+      "transcript": "ਓਤੁ ਮਤੀ ਸਾਲਾਹਣਾ, ਸਚੁ ਨਾਮੁ ਗੁਣਤਾਸੁ।",
+      "start_time": 41.332,
+      "end_time": 50.082
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰ ਮਤਿ, ਜੇ ਸਉ ਵੇਰ ਕਮਾਈਐ, ਕੂੜੈ ਕੂੜਾ ਜੋਰੁ ਰਹਾਉ।",
       "section_id": "section-5",
-      "start_time": 50082,
-      "end_time": 64228,
-      "verified": true,
-      "line_id": "9008"
+      "transcript": "ਬਾਬਾ ਹੋਰ ਮਤਿ, ਜੇ ਸਉ ਵੇਰ ਕਮਾਈਐ, ਕੂੜੈ ਕੂੜਾ ਜੋਰੁ ਰਹਾਉ।",
+      "start_time": 50.082,
+      "end_time": 64.228
     },
     {
-      "title": "ਪੂਜ ਲਗੈ ਪੀਰੁ ਆਖੀਐ, ਸਭੁ ਮਿਲੈ ਸੰਸਾਰੁ।",
       "section_id": "section-6",
-      "start_time": 76090,
-      "end_time": 84484,
-      "verified": true,
-      "line_id": "U0CW"
+      "transcript": "ਪੂਜ ਲਗੈ ਪੀਰੁ ਆਖੀਐ, ਸਭੁ ਮਿਲੈ ਸੰਸਾਰੁ।",
+      "start_time": 76.09,
+      "end_time": 84.484
     },
     {
-      "title": "ਨਾਉ ਸਦਾਏ ਆਪਣਾ, ਹੋਵੈ ਸਿਧੁ ਸੁਮਾਰੁ।",
       "section_id": "section-7",
-      "start_time": 84484,
-      "end_time": 93060,
-      "verified": true,
-      "line_id": "ZXPS"
+      "transcript": "ਨਾਉ ਸਦਾਏ ਆਪਣਾ, ਹੋਵੈ ਸਿਧੁ ਸੁਮਾਰੁ।",
+      "start_time": 84.484,
+      "end_time": 93.06
     },
     {
-      "title": "ਜਾ ਪਤਿ ਲੇਖੈ ਨਾ ਪਵੈ, ਸਭਾ ਪੂਜ ਖੁਆਰੁ।",
       "section_id": "section-8",
-      "start_time": 93060,
-      "end_time": 102176,
-      "verified": true,
-      "line_id": "0ZLQ"
+      "transcript": "ਜਾ ਪਤਿ ਲੇਖੈ ਨਾ ਪਵੈ, ਸਭਾ ਪੂਜ ਖੁਆਰੁ।",
+      "start_time": 93.06,
+      "end_time": 102.176
     },
     {
-      "title": "ਜਿਨ ਕਉ ਸਤਿਗੁਰਿ ਥਾਪਿਆ",
       "section_id": "section-9",
-      "start_time": 114439,
-      "end_time": 122324,
-      "verified": true,
-      "line_id": "CARQ"
+      "transcript": "ਜਿਨ ਕਉ ਸਤਿਗੁਰਿ ਥਾਪਿਆ",
+      "start_time": 114.439,
+      "end_time": 122.324
     },
     {
-      "title": "ਓਨਾ ਅੰਦਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ, ਨਾਮੋ ਪਰਗਟੁ ਹੋਇ।",
       "section_id": "section-10",
-      "start_time": 122324,
-      "end_time": 131557,
-      "verified": true,
-      "line_id": "DAXD"
+      "transcript": "ਓਨਾ ਅੰਦਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ, ਨਾਮੋ ਪਰਗਟੁ ਹੋਇ।",
+      "start_time": 122.324,
+      "end_time": 131.557
     },
     {
-      "title": "ਨਾਉ ਪੂਜੀਐ ਨਾਉ ਮੰਨੀਐ, ਅਖੰਡੁ ਸਦਾ ਸਚੁ ਸੋਇ।",
       "section_id": "section-11",
-      "start_time": 131557,
-      "end_time": 139748,
-      "verified": true,
-      "line_id": "5J3W"
+      "transcript": "ਨਾਉ ਪੂਜੀਐ ਨਾਉ ਮੰਨੀਐ, ਅਖੰਡੁ ਸਦਾ ਸਚੁ ਸੋਇ।",
+      "start_time": 131.557,
+      "end_time": 139.748
     },
     {
-      "title": "ਖੇਹੂ ਖੇਹ ਰਲਾਈਐ, ਤਾ ਜੀਉ ਕੇਹਾ ਹੋਇ।",
       "section_id": "section-12",
-      "start_time": 152375,
-      "end_time": 160596,
-      "verified": true,
-      "line_id": "XF96"
+      "transcript": "ਖੇਹੂ ਖੇਹ ਰਲਾਈਐ, ਤਾ ਜੀਉ ਕੇਹਾ ਹੋਇ।",
+      "start_time": 152.375,
+      "end_time": 160.596
     },
     {
-      "title": "ਜਲੀਆ ਸਭਿ ਸਿਆਣਪਾ, ਉਠੀ ਚਲਿਆ ਰੋਇ।",
       "section_id": "section-13",
-      "start_time": 160596,
-      "end_time": 168822,
-      "verified": true,
-      "line_id": "SAS5"
+      "transcript": "ਜਲੀਆ ਸਭਿ ਸਿਆਣਪਾ, ਉਠੀ ਚਲਿਆ ਰੋਇ।",
+      "start_time": 160.596,
+      "end_time": 168.822
     },
     {
-      "title": "ਨਾਨਕ ਨਾਮਿ ਵਿਸਾਰਿਐ, ਦਰਿ ਗਇਆ ਕਿਆ ਹੋਇ।",
       "section_id": "section-14",
-      "start_time": 168822,
-      "end_time": 177342,
-      "verified": true,
-      "line_id": "GFUS"
+      "transcript": "ਨਾਨਕ ਨਾਮਿ ਵਿਸਾਰਿਐ, ਦਰਿ ਗਇਆ ਕਿਆ ਹੋਇ।",
+      "start_time": 168.822,
+      "end_time": 177.342
     },
     {
-      "title": "ਨਾਨਕ ਨਾਮਿ ਵਿਸਾਰਿਐ, ਦਰਿ ਗਇਆ ਕਿਆ ਹੋਇ।",
       "section_id": "section-15",
-      "start_time": 177342,
-      "end_time": 185844,
-      "verified": true,
-      "line_id": "GFUS"
+      "transcript": "ਨਾਨਕ ਨਾਮਿ ਵਿਸਾਰਿਐ, ਦਰਿ ਗਇਆ ਕਿਆ ਹੋਇ।",
+      "start_time": 177.342,
+      "end_time": 185.844
     }
   ]
 }

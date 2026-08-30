@@ -2,244 +2,184 @@
   "audio_file": "014 C Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ",
       "section_id": "section-1",
-      "start_time": 987,
-      "end_time": 10608,
-      "verified": true,
-      "line_id": "Q40H"
+      "transcript": "ਸਿਰੀਰਾਗੁ",
+      "start_time": 0.987,
+      "end_time": 10.608
     },
     {
-      "title": "ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-2",
-      "start_time": 10608,
-      "end_time": 20899,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 10.608,
+      "end_time": 20.899
     },
     {
-      "title": "ਸੁਣਿ ਮਨ ਮਿਤ੍ਰ ਪਿਆਰਿਆ",
       "section_id": "section-3",
-      "start_time": 33189,
-      "end_time": 39479,
-      "verified": true,
-      "line_id": "UVWG"
+      "transcript": "ਸੁਣਿ ਮਨ ਮਿਤ੍ਰ ਪਿਆਰਿਆ",
+      "start_time": 33.189,
+      "end_time": 39.479
     },
     {
-      "title": "ਮਿਲੁ ਵੇਲਾ ਹੈ ਏਹ",
       "section_id": "section-4",
-      "start_time": 39479,
-      "end_time": 45533,
-      "verified": true,
-      "line_id": "UVWG"
+      "transcript": "ਮਿਲੁ ਵੇਲਾ ਹੈ ਏਹ",
+      "start_time": 39.479,
+      "end_time": 45.533
     },
     {
-      "title": "ਜਬ ਲਗੁ ਜੋਬਨਿ ਸਾਸੁ ਹੈ",
       "section_id": "section-5",
-      "start_time": 45533,
-      "end_time": 51611,
-      "verified": true,
-      "line_id": "0RCT"
+      "transcript": "ਜਬ ਲਗੁ ਜੋਬਨਿ ਸਾਸੁ ਹੈ",
+      "start_time": 45.533,
+      "end_time": 51.611
     },
     {
-      "title": "ਤਬ ਲਗੁ ਇਹੁ ਤਨੁ ਦੇਹ",
       "section_id": "section-6",
-      "start_time": 51611,
-      "end_time": 57840,
-      "verified": true,
-      "line_id": "0RCT"
+      "transcript": "ਤਬ ਲਗੁ ਇਹੁ ਤਨੁ ਦੇਹ",
+      "start_time": 51.611,
+      "end_time": 57.84
     },
     {
-      "title": "ਬਿਨੁ ਗੁਣ ਕਾਮਿ ਨ ਆਵਈ",
       "section_id": "section-7",
-      "start_time": 57840,
-      "end_time": 64002,
-      "verified": true,
-      "line_id": "5MTM"
+      "transcript": "ਬਿਨੁ ਗੁਣ ਕਾਮਿ ਨ ਆਵਈ",
+      "start_time": 57.84,
+      "end_time": 64.002
     },
     {
-      "title": "ਢਹਿ ਢੇਰੀ ਤਨੁ ਖੇਹ",
       "section_id": "section-8",
-      "start_time": 64002,
-      "end_time": 70175,
-      "verified": true,
-      "line_id": "5MTM"
+      "transcript": "ਢਹਿ ਢੇਰੀ ਤਨੁ ਖੇਹ",
+      "start_time": 64.002,
+      "end_time": 70.175
     },
     {
-      "title": "ਮੇਰੇ ਮਨ, ਲੈ ਲਾਹਾ ਘਰਿ ਜਾਹਿ।",
       "section_id": "section-9",
-      "start_time": 70175,
-      "end_time": 82316,
-      "verified": true,
-      "line_id": "SLWR"
+      "transcript": "ਮੇਰੇ ਮਨ, ਲੈ ਲਾਹਾ ਘਰਿ ਜਾਹਿ।",
+      "start_time": 70.175,
+      "end_time": 82.316
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਸਲਾਹੀਐ, ਹਉਮੈ ਨਿਵਰੀ ਭਾਹਿ, ਰਹਾਉ।",
       "section_id": "section-10",
-      "start_time": 82316,
-      "end_time": 97895,
-      "verified": true,
-      "line_id": "ZQUV"
+      "transcript": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਸਲਾਹੀਐ, ਹਉਮੈ ਨਿਵਰੀ ਭਾਹਿ, ਰਹਾਉ।",
+      "start_time": 82.316,
+      "end_time": 97.895
     },
     {
-      "title": "ਸੁਣਿ ਸੁਣਿ ਗੰਢਣੁ ਗੰਢੀਐ",
       "section_id": "section-11",
-      "start_time": 113820,
-      "end_time": 119991,
-      "verified": true,
-      "line_id": "UV1E"
+      "transcript": "ਸੁਣਿ ਸੁਣਿ ਗੰਢਣੁ ਗੰਢੀਐ",
+      "start_time": 113.82,
+      "end_time": 119.991
     },
     {
-      "title": "ਲਿਖਿ ਪੜਿ ਬੁਝਹਿ ਭਾਰੁ",
       "section_id": "section-12",
-      "start_time": 119991,
-      "end_time": 126291,
-      "verified": true,
-      "line_id": "UV1E"
+      "transcript": "ਲਿਖਿ ਪੜਿ ਬੁਝਹਿ ਭਾਰੁ",
+      "start_time": 119.991,
+      "end_time": 126.291
     },
     {
-      "title": "ਤ੍ਰਿਸਨਾ ਅਹਿਨਿਸਿ ਅਗਲੀ",
       "section_id": "section-13",
-      "start_time": 126291,
-      "end_time": 132744,
-      "verified": true,
-      "line_id": "DSD3"
+      "transcript": "ਤ੍ਰਿਸਨਾ ਅਹਿਨਿਸਿ ਅਗਲੀ",
+      "start_time": 126.291,
+      "end_time": 132.744
     },
     {
-      "title": "ਹਉਮੈ ਰੋਗੁ ਵਿਕਾਰੁ",
       "section_id": "section-14",
-      "start_time": 132744,
-      "end_time": 138574,
-      "verified": true,
-      "line_id": "DSD3"
+      "transcript": "ਹਉਮੈ ਰੋਗੁ ਵਿਕਾਰੁ",
+      "start_time": 132.744,
+      "end_time": 138.574
     },
     {
-      "title": "ਓਹੁ ਵੇਪਰਵਾਹੁ ਅਤੋਲਵਾ",
       "section_id": "section-15",
-      "start_time": 138574,
-      "end_time": 145260,
-      "verified": true,
-      "line_id": "5XDG"
+      "transcript": "ਓਹੁ ਵੇਪਰਵਾਹੁ ਅਤੋਲਵਾ",
+      "start_time": 138.574,
+      "end_time": 145.26
     },
     {
-      "title": "ਗੁਰਮਤਿ ਕੀਮਤਿ ਸਾਰੁ",
       "section_id": "section-16",
-      "start_time": 145260,
-      "end_time": 151529,
-      "verified": true,
-      "line_id": "5XDG"
+      "transcript": "ਗੁਰਮਤਿ ਕੀਮਤਿ ਸਾਰੁ",
+      "start_time": 145.26,
+      "end_time": 151.529
     },
     {
-      "title": "ਲਖ ਸਿਆਣਪ ਜੇ ਕਰੀ",
       "section_id": "section-17",
-      "start_time": 158290,
-      "end_time": 164580,
-      "verified": true,
-      "line_id": "0BRG"
+      "transcript": "ਲਖ ਸਿਆਣਪ ਜੇ ਕਰੀ",
+      "start_time": 158.29,
+      "end_time": 164.58
     },
     {
-      "title": "ਲਖ ਸਿਉ ਪ੍ਰੀਤਿ ਮਿਲਾਪੁ",
       "section_id": "section-18",
-      "start_time": 164580,
-      "end_time": 170648,
-      "verified": true,
-      "line_id": "0BRG"
+      "transcript": "ਲਖ ਸਿਉ ਪ੍ਰੀਤਿ ਮਿਲਾਪੁ",
+      "start_time": 164.58,
+      "end_time": 170.648
     },
     {
-      "title": "ਬਿਨੁ ਸੰਗਤਿ ਸਾਧ ਨ ਧ੍ਰਾਪੀਆ",
       "section_id": "section-19",
-      "start_time": 170648,
-      "end_time": 177119,
-      "verified": true,
-      "line_id": "AVDM"
+      "transcript": "ਬਿਨੁ ਸੰਗਤਿ ਸਾਧ ਨ ਧ੍ਰਾਪੀਆ",
+      "start_time": 170.648,
+      "end_time": 177.119
     },
     {
-      "title": "ਬਿਨੁ ਨਾਵੈ ਦੂਖ ਸੰਤਾਪੁ",
       "section_id": "section-20",
-      "start_time": 177119,
-      "end_time": 183611,
-      "verified": true,
-      "line_id": "AVDM"
+      "transcript": "ਬਿਨੁ ਨਾਵੈ ਦੂਖ ਸੰਤਾਪੁ",
+      "start_time": 177.119,
+      "end_time": 183.611
     },
     {
-      "title": "ਹਰਿ ਜਪਿ ਜੀਅਰੇ ਛੁਟੀਐ",
       "section_id": "section-21",
-      "start_time": 183611,
-      "end_time": 190155,
-      "verified": true,
-      "line_id": "QQFP"
+      "transcript": "ਹਰਿ ਜਪਿ ਜੀਅਰੇ ਛੁਟੀਐ",
+      "start_time": 183.611,
+      "end_time": 190.155
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਚੀਨੈ ਆਪੁ",
       "section_id": "section-22",
-      "start_time": 190155,
-      "end_time": 197120,
-      "verified": true,
-      "line_id": "QQFP"
+      "transcript": "ਗੁਰਮੁਖਿ ਚੀਨੈ ਆਪੁ",
+      "start_time": 190.155,
+      "end_time": 197.12
     },
     {
-      "title": "ਤਨੁ ਮਨੁ ਗੁਰ ਪਹਿ ਵੇਚਿਆ",
       "section_id": "section-23",
-      "start_time": 203150,
-      "end_time": 209479,
-      "verified": true,
-      "line_id": "VJ83"
+      "transcript": "ਤਨੁ ਮਨੁ ਗੁਰ ਪਹਿ ਵੇਚਿਆ",
+      "start_time": 203.15,
+      "end_time": 209.479
     },
     {
-      "title": "ਮਨੁ ਦੀਆ ਸਿਰੁ ਨਾਲਿ",
       "section_id": "section-24",
-      "start_time": 209479,
-      "end_time": 215792,
-      "verified": true,
-      "line_id": "VJ83"
+      "transcript": "ਮਨੁ ਦੀਆ ਸਿਰੁ ਨਾਲਿ",
+      "start_time": 209.479,
+      "end_time": 215.792
     },
     {
-      "title": "ਤ੍ਰਿਭਵਣੁ ਖੋਜਿ ਢੰਢੋਲਿਆ",
       "section_id": "section-25",
-      "start_time": 215792,
-      "end_time": 222346,
-      "verified": true,
-      "line_id": "YFYP"
+      "transcript": "ਤ੍ਰਿਭਵਣੁ ਖੋਜਿ ਢੰਢੋਲਿਆ",
+      "start_time": 215.792,
+      "end_time": 222.346
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਖੋਜਿ ਨਿਹਾਲਿ",
       "section_id": "section-26",
-      "start_time": 222346,
-      "end_time": 228696,
-      "verified": true,
-      "line_id": "YFYP"
+      "transcript": "ਗੁਰਮੁਖਿ ਖੋਜਿ ਨਿਹਾਲਿ",
+      "start_time": 222.346,
+      "end_time": 228.696
     },
     {
-      "title": "ਸਤਗੁਰਿ ਮੇਲਿ ਮਿਲਾਇਆ",
       "section_id": "section-27",
-      "start_time": 228696,
-      "end_time": 235044,
-      "verified": true,
-      "line_id": "214J"
+      "transcript": "ਸਤਗੁਰਿ ਮੇਲਿ ਮਿਲਾਇਆ",
+      "start_time": 228.696,
+      "end_time": 235.044
     },
     {
-      "title": "ਨਾਨਕ ਸੋ ਪ੍ਰਭੁ ਨਾਲਿ",
       "section_id": "section-28",
-      "start_time": 235044,
-      "end_time": 241541,
-      "verified": true,
-      "line_id": "214J"
+      "transcript": "ਨਾਨਕ ਸੋ ਪ੍ਰਭੁ ਨਾਲਿ",
+      "start_time": 235.044,
+      "end_time": 241.541
     },
     {
-      "title": "ਸਤਗੁਰਿ ਮੇਲਿ ਮਿਲਾਇਆ।",
       "section_id": "section-29",
-      "start_time": 254509,
-      "end_time": 260790,
-      "verified": true,
-      "line_id": "214J"
+      "transcript": "ਸਤਗੁਰਿ ਮੇਲਿ ਮਿਲਾਇਆ।",
+      "start_time": 254.509,
+      "end_time": 260.79
     },
     {
-      "title": "ਨਾਨਕ ਸੋ ਪ੍ਰਭੁ ਨਾਲਿ।",
       "section_id": "section-30",
-      "start_time": 260790,
-      "end_time": 268174,
-      "verified": true,
-      "line_id": "214J"
+      "transcript": "ਨਾਨਕ ਸੋ ਪ੍ਰਭੁ ਨਾਲਿ।",
+      "start_time": 260.79,
+      "end_time": 268.174
     }
   ]
 }

@@ -2,244 +2,184 @@
   "audio_file": "012 C Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 495,
-      "end_time": 15344,
-      "verified": true,
-      "line_id": "16DH"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 0.495,
+      "end_time": 15.344
     },
     {
-      "title": "ਭਲੀ ਸਰੀ ਜਿ ਉਬਰੀ",
       "section_id": "section-2",
-      "start_time": 30000,
-      "end_time": 36235,
-      "verified": true,
-      "line_id": "NRKV"
+      "transcript": "ਭਲੀ ਸਰੀ ਜਿ ਉਬਰੀ",
+      "start_time": 30.0,
+      "end_time": 36.235
     },
     {
-      "title": "ਹਉਮੈ ਮੁਈ ਘਰਾਹੁ",
       "section_id": "section-3",
-      "start_time": 36235,
-      "end_time": 42233,
-      "verified": true,
-      "line_id": "NRKV"
+      "transcript": "ਹਉਮੈ ਮੁਈ ਘਰਾਹੁ",
+      "start_time": 36.235,
+      "end_time": 42.233
     },
     {
-      "title": "ਦੂਤ ਲਗੇ ਫਿਰਿ ਚਾਕਰੀ",
       "section_id": "section-4",
-      "start_time": 42233,
-      "end_time": 48365,
-      "verified": true,
-      "line_id": "8RVK"
+      "transcript": "ਦੂਤ ਲਗੇ ਫਿਰਿ ਚਾਕਰੀ",
+      "start_time": 42.233,
+      "end_time": 48.365
     },
     {
-      "title": "ਸਤਿਗੁਰ ਕਾ ਵੇਸਾਹੁ",
       "section_id": "section-5",
-      "start_time": 48365,
-      "end_time": 54313,
-      "verified": true,
-      "line_id": "8RVK"
+      "transcript": "ਸਤਿਗੁਰ ਕਾ ਵੇਸਾਹੁ",
+      "start_time": 48.365,
+      "end_time": 54.313
     },
     {
-      "title": "ਕਲਪ ਤਿਆਗੀ ਬਾਦਿ ਹੈ",
       "section_id": "section-6",
-      "start_time": 54313,
-      "end_time": 60593,
-      "verified": true,
-      "line_id": "NEAB"
+      "transcript": "ਕਲਪ ਤਿਆਗੀ ਬਾਦਿ ਹੈ",
+      "start_time": 54.313,
+      "end_time": 60.593
     },
     {
-      "title": "ਸਚਾ ਵੇਪਰਵਾਹੁ, ਮਨ ਰੇ।",
       "section_id": "section-7",
-      "start_time": 60593,
-      "end_time": 69734,
-      "verified": true,
-      "line_id": "NEAB"
+      "transcript": "ਸਚਾ ਵੇਪਰਵਾਹੁ, ਮਨ ਰੇ।",
+      "start_time": 60.593,
+      "end_time": 69.734
     },
     {
-      "title": "ਸਚੁ ਮਿਲੈ ਭਉ ਜਾਇ।",
       "section_id": "section-8",
-      "start_time": 72363,
-      "end_time": 78162,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਸਚੁ ਮਿਲੈ ਭਉ ਜਾਇ।",
+      "start_time": 72.363,
+      "end_time": 78.162
     },
     {
-      "title": "ਭੈ ਬਿਨੁ ਨਿਰਭਉ ਕਿਉ ਥੀਐ",
       "section_id": "section-9",
-      "start_time": 78162,
-      "end_time": 84040,
-      "verified": true,
-      "line_id": "HKFM"
+      "transcript": "ਭੈ ਬਿਨੁ ਨਿਰਭਉ ਕਿਉ ਥੀਐ",
+      "start_time": 78.162,
+      "end_time": 84.04
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਸਬਦਿ ਸਮਾਇ ਰਹਾਉ",
       "section_id": "section-10",
-      "start_time": 84040,
-      "end_time": 91988,
-      "verified": true,
-      "line_id": "HKFM"
+      "transcript": "ਗੁਰਮੁਖਿ ਸਬਦਿ ਸਮਾਇ ਰਹਾਉ",
+      "start_time": 84.04,
+      "end_time": 91.988
     },
     {
-      "title": "ਕੇਤਾ ਆਖਣੁ ਆਖੀਐ",
       "section_id": "section-11",
-      "start_time": 96005,
-      "end_time": 101913,
-      "verified": true,
-      "line_id": "BHTD"
+      "transcript": "ਕੇਤਾ ਆਖਣੁ ਆਖੀਐ",
+      "start_time": 96.005,
+      "end_time": 101.913
     },
     {
-      "title": "ਆਖਣਿ ਤੋਟਿ ਨ ਹੋਇ",
       "section_id": "section-12",
-      "start_time": 101913,
-      "end_time": 107822,
-      "verified": true,
-      "line_id": "BHTD"
+      "transcript": "ਆਖਣਿ ਤੋਟਿ ਨ ਹੋਇ",
+      "start_time": 101.913,
+      "end_time": 107.822
     },
     {
-      "title": "ਮੰਗਣ ਵਾਲੇ ਕੇਤੜੇ",
       "section_id": "section-13",
-      "start_time": 107822,
-      "end_time": 113967,
-      "verified": true,
-      "line_id": "TLBT"
+      "transcript": "ਮੰਗਣ ਵਾਲੇ ਕੇਤੜੇ",
+      "start_time": 107.822,
+      "end_time": 113.967
     },
     {
-      "title": "ਦਾਤਾ ਏਕੋ ਸੋਇ",
       "section_id": "section-14",
-      "start_time": 113967,
-      "end_time": 119761,
-      "verified": true,
-      "line_id": "TLBT"
+      "transcript": "ਦਾਤਾ ਏਕੋ ਸੋਇ",
+      "start_time": 113.967,
+      "end_time": 119.761
     },
     {
-      "title": "ਜਿਸ ਕੇ ਜੀਅ ਪਰਾਣ ਹੈ",
       "section_id": "section-15",
-      "start_time": 119761,
-      "end_time": 125615,
-      "verified": true,
-      "line_id": "ES5R"
+      "transcript": "ਜਿਸ ਕੇ ਜੀਅ ਪਰਾਣ ਹੈ",
+      "start_time": 119.761,
+      "end_time": 125.615
     },
     {
-      "title": "ਮਨਿ ਵਸਿਐ ਸੁਖੁ ਹੋਇ",
       "section_id": "section-16",
-      "start_time": 125615,
-      "end_time": 131739,
-      "verified": true,
-      "line_id": "ES5R"
+      "transcript": "ਮਨਿ ਵਸਿਐ ਸੁਖੁ ਹੋਇ",
+      "start_time": 125.615,
+      "end_time": 131.739
     },
     {
-      "title": "ਜਗੁ ਸੁਪਨਾ ਬਾਜੀ ਬਨੀ",
       "section_id": "section-17",
-      "start_time": 143340,
-      "end_time": 149436,
-      "verified": true,
-      "line_id": "BVFN"
+      "transcript": "ਜਗੁ ਸੁਪਨਾ ਬਾਜੀ ਬਨੀ",
+      "start_time": 143.34,
+      "end_time": 149.436
     },
     {
-      "title": "ਖਿਨ ਮਹਿ ਖੇਲੁ ਖੇਲਾਇ।",
       "section_id": "section-18",
-      "start_time": 149436,
-      "end_time": 155348,
-      "verified": true,
-      "line_id": "BVFN"
+      "transcript": "ਖਿਨ ਮਹਿ ਖੇਲੁ ਖੇਲਾਇ।",
+      "start_time": 149.436,
+      "end_time": 155.348
     },
     {
-      "title": "ਸੰਜੋਗੀ ਮਿਲਿ ਏਕਸੇ",
       "section_id": "section-19",
-      "start_time": 155348,
-      "end_time": 161258,
-      "verified": true,
-      "line_id": "BFYK"
+      "transcript": "ਸੰਜੋਗੀ ਮਿਲਿ ਏਕਸੇ",
+      "start_time": 155.348,
+      "end_time": 161.258
     },
     {
-      "title": "ਵਿਜੋਗੀ ਉਠਿ ਜਾਇ",
       "section_id": "section-20",
-      "start_time": 161258,
-      "end_time": 167132,
-      "verified": true,
-      "line_id": "BFYK"
+      "transcript": "ਵਿਜੋਗੀ ਉਠਿ ਜਾਇ",
+      "start_time": 161.258,
+      "end_time": 167.132
     },
     {
-      "title": "ਜੋ ਤਿਸੁ ਭਾਣਾ ਸੋ ਥੀਐ",
       "section_id": "section-21",
-      "start_time": 167132,
-      "end_time": 172954,
-      "verified": true,
-      "line_id": "784K"
+      "transcript": "ਜੋ ਤਿਸੁ ਭਾਣਾ ਸੋ ਥੀਐ",
+      "start_time": 167.132,
+      "end_time": 172.954
     },
     {
-      "title": "ਅਵਰੁ ਨ ਕਰਣਾ ਜਾਇ",
       "section_id": "section-22",
-      "start_time": 172954,
-      "end_time": 178860,
-      "verified": true,
-      "line_id": "784K"
+      "transcript": "ਅਵਰੁ ਨ ਕਰਣਾ ਜਾਇ",
+      "start_time": 172.954,
+      "end_time": 178.86
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਵਸਤੁ ਵੇਸਾਹੀਐ",
       "section_id": "section-23",
-      "start_time": 184735,
-      "end_time": 190640,
-      "verified": true,
-      "line_id": "WA6A"
+      "transcript": "ਗੁਰਮੁਖਿ ਵਸਤੁ ਵੇਸਾਹੀਐ",
+      "start_time": 184.735,
+      "end_time": 190.64
     },
     {
-      "title": "ਸਚੁ ਵਖਰੁ ਸਚੁ ਰਾਸਿ",
       "section_id": "section-24",
-      "start_time": 190640,
-      "end_time": 196438,
-      "verified": true,
-      "line_id": "WA6A"
+      "transcript": "ਸਚੁ ਵਖਰੁ ਸਚੁ ਰਾਸਿ",
+      "start_time": 190.64,
+      "end_time": 196.438
     },
     {
-      "title": "ਜਿਨੀ ਸਚੁ ਵਣੰਜਿਆ",
       "section_id": "section-25",
-      "start_time": 196438,
-      "end_time": 202437,
-      "verified": true,
-      "line_id": "YBNL"
+      "transcript": "ਜਿਨੀ ਸਚੁ ਵਣੰਜਿਆ",
+      "start_time": 196.438,
+      "end_time": 202.437
     },
     {
-      "title": "ਗੁਰ ਪੂਰੇ ਸਾਬਾਸਿ",
       "section_id": "section-26",
-      "start_time": 202437,
-      "end_time": 208174,
-      "verified": true,
-      "line_id": "YBNL"
+      "transcript": "ਗੁਰ ਪੂਰੇ ਸਾਬਾਸਿ",
+      "start_time": 202.437,
+      "end_time": 208.174
     },
     {
-      "title": "ਨਾਨਕ ਵਸਤੁ ਪਛਾਣਸੀ।",
       "section_id": "section-27",
-      "start_time": 208311,
-      "end_time": 213942,
-      "verified": true,
-      "line_id": "QWQF"
+      "transcript": "ਨਾਨਕ ਵਸਤੁ ਪਛਾਣਸੀ।",
+      "start_time": 208.311,
+      "end_time": 213.942
     },
     {
-      "title": "ਸਚੁ ਸਉਦਾ ਜਿਸੁ ਪਾਸਿ।",
       "section_id": "section-28",
-      "start_time": 213942,
-      "end_time": 219841,
-      "verified": true,
-      "line_id": "QWQF"
+      "transcript": "ਸਚੁ ਸਉਦਾ ਜਿਸੁ ਪਾਸਿ।",
+      "start_time": 213.942,
+      "end_time": 219.841
     },
     {
-      "title": "ਨਾਨਕ ਵਸਤੁ ਪਛਾਣਸੀ",
       "section_id": "section-29",
-      "start_time": 231438,
-      "end_time": 237057,
-      "verified": true,
-      "line_id": "QWQF"
+      "transcript": "ਨਾਨਕ ਵਸਤੁ ਪਛਾਣਸੀ",
+      "start_time": 231.438,
+      "end_time": 237.057
     },
     {
-      "title": "ਸਚੁ ਸਉਦਾ ਜਿਸੁ ਪਾਸਿ",
       "section_id": "section-30",
-      "start_time": 237057,
-      "end_time": 244569,
-      "verified": true,
-      "line_id": "QWQF"
+      "transcript": "ਸਚੁ ਸਉਦਾ ਜਿਸੁ ਪਾਸਿ",
+      "start_time": 237.057,
+      "end_time": 244.569
     }
   ]
 }

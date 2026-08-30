@@ -2,388 +2,292 @@
   "audio_file": "011 A Pb.mp3",
   "sections": [
     {
-      "title": "ਸ੍ਰੀਰਾਗੁ",
       "section_id": "section-1",
-      "start_time": 4844,
-      "end_time": 12608,
-      "verified": true,
-      "line_id": "GG60"
+      "transcript": "ਸ੍ਰੀਰਾਗੁ",
+      "start_time": 4.844,
+      "end_time": 12.608
     },
     {
-      "title": "ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-2",
-      "start_time": 12608,
-      "end_time": 21639,
-      "verified": true,
-      "line_id": "JJ9K"
+      "transcript": "ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 12.608,
+      "end_time": 21.639
     },
     {
-      "title": "ਸਭਿ ਰਸ ਮਿਠੇ ਮੰਨਿਐ",
       "section_id": "section-3",
-      "start_time": 47736,
-      "end_time": 53839,
-      "verified": true,
-      "line_id": "ZPJQ"
+      "transcript": "ਸਭਿ ਰਸ ਮਿਠੇ ਮੰਨਿਐ",
+      "start_time": 47.736,
+      "end_time": 53.839
     },
     {
-      "title": "ਸੁਣਿਐ ਸਾਲੋਣੇ",
       "section_id": "section-4",
-      "start_time": 53839,
-      "end_time": 59852,
-      "verified": true,
-      "line_id": "ZPJQ"
+      "transcript": "ਸੁਣਿਐ ਸਾਲੋਣੇ",
+      "start_time": 53.839,
+      "end_time": 59.852
     },
     {
-      "title": "ਖਟ ਤੁਰਸੀ ਮੁਖਿ ਬੋਲਣਾ",
       "section_id": "section-5",
-      "start_time": 59852,
-      "end_time": 65593,
-      "verified": true,
-      "line_id": "9DUG"
+      "transcript": "ਖਟ ਤੁਰਸੀ ਮੁਖਿ ਬੋਲਣਾ",
+      "start_time": 59.852,
+      "end_time": 65.593
     },
     {
-      "title": "ਮਾਰਣ ਨਾਦ ਕੀਏ",
       "section_id": "section-6",
-      "start_time": 65599,
-      "end_time": 71387,
-      "verified": true,
-      "line_id": "9DUG"
+      "transcript": "ਮਾਰਣ ਨਾਦ ਕੀਏ",
+      "start_time": 65.599,
+      "end_time": 71.387
     },
     {
-      "title": "ਛਤੀਹ ਅੰਮ੍ਰਿਤ ਭਾਉ ਏਕੁ",
       "section_id": "section-7",
-      "start_time": 71387,
-      "end_time": 77298,
-      "verified": true,
-      "line_id": "US9V"
+      "transcript": "ਛਤੀਹ ਅੰਮ੍ਰਿਤ ਭਾਉ ਏਕੁ",
+      "start_time": 71.387,
+      "end_time": 77.298
     },
     {
-      "title": "ਜਾ ਕਉ ਨਦਰਿ ਕਰੇਇ",
       "section_id": "section-8",
-      "start_time": 77298,
-      "end_time": 83079,
-      "verified": true,
-      "line_id": "US9V"
+      "transcript": "ਜਾ ਕਉ ਨਦਰਿ ਕਰੇਇ",
+      "start_time": 77.298,
+      "end_time": 83.079
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਖਾਣਾ, ਖੁਸੀ ਖੁਆਰੁ",
       "section_id": "section-9",
-      "start_time": 83079,
-      "end_time": 89007,
-      "verified": true,
-      "line_id": "U1P5"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਖਾਣਾ, ਖੁਸੀ ਖੁਆਰੁ",
+      "start_time": 83.079,
+      "end_time": 89.007
     },
     {
-      "title": "ਜਿਤੁ ਖਾਧੈ ਤਨੁ ਪੀੜੀਐ।",
       "section_id": "section-10",
-      "start_time": 89023,
-      "end_time": 94757,
-      "verified": true,
-      "line_id": "C8MH"
+      "transcript": "ਜਿਤੁ ਖਾਧੈ ਤਨੁ ਪੀੜੀਐ।",
+      "start_time": 89.023,
+      "end_time": 94.757
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ ਰਹਾਉ",
       "section_id": "section-11",
-      "start_time": 94757,
-      "end_time": 100624,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ ਰਹਾਉ",
+      "start_time": 94.757,
+      "end_time": 100.624
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਖਾਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-12",
-      "start_time": 100687,
-      "end_time": 106566,
-      "verified": true,
-      "line_id": "U1P5"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਖਾਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 100.687,
+      "end_time": 106.566
     },
     {
-      "title": "ਜਿਤੁ ਖਾਧੈ ਤਨੁ ਪੀੜੀਐ,",
       "section_id": "section-13",
-      "start_time": 106582,
-      "end_time": 112527,
-      "verified": true,
-      "line_id": "C8MH"
+      "transcript": "ਜਿਤੁ ਖਾਧੈ ਤਨੁ ਪੀੜੀਐ,",
+      "start_time": 106.582,
+      "end_time": 112.527
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
       "section_id": "section-14",
-      "start_time": 112527,
-      "end_time": 120050,
-      "verified": true,
-      "line_id": "ZQUV"
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
+      "start_time": 112.527,
+      "end_time": 120.05
     },
     {
-      "title": "ਰਤਾ ਪੈਨਣੁ ਮਨੁ ਰਤਾ।",
       "section_id": "section-15",
-      "start_time": 152293,
-      "end_time": 157696,
-      "verified": true,
-      "line_id": "GAKX"
+      "transcript": "ਰਤਾ ਪੈਨਣੁ ਮਨੁ ਰਤਾ।",
+      "start_time": 152.293,
+      "end_time": 157.696
     },
     {
-      "title": "ਸੁਪੇਦੀ ਸਤੁ ਦਾਨੁ।",
       "section_id": "section-16",
-      "start_time": 157696,
-      "end_time": 163773,
-      "verified": true,
-      "line_id": "GAKX"
+      "transcript": "ਸੁਪੇਦੀ ਸਤੁ ਦਾਨੁ।",
+      "start_time": 157.696,
+      "end_time": 163.773
     },
     {
-      "title": "ਨੀਲੀ ਸਿਆਹੀ ਕਦਾ ਕਰਣੀ।",
       "section_id": "section-17",
-      "start_time": 163773,
-      "end_time": 169633,
-      "verified": true,
-      "line_id": "YS6G"
+      "transcript": "ਨੀਲੀ ਸਿਆਹੀ ਕਦਾ ਕਰਣੀ।",
+      "start_time": 163.773,
+      "end_time": 169.633
     },
     {
-      "title": "ਪਹਿਰਣੁ ਪੈਰ ਧਿਆਨੁ।",
       "section_id": "section-18",
-      "start_time": 169633,
-      "end_time": 175451,
-      "verified": true,
-      "line_id": "YS6G"
+      "transcript": "ਪਹਿਰਣੁ ਪੈਰ ਧਿਆਨੁ।",
+      "start_time": 169.633,
+      "end_time": 175.451
     },
     {
-      "title": "ਕਮਰਬੰਦੁ ਸੰਤੋਖ ਕਾ।",
       "section_id": "section-19",
-      "start_time": 175451,
-      "end_time": 181227,
-      "verified": true,
-      "line_id": "8U97"
+      "transcript": "ਕਮਰਬੰਦੁ ਸੰਤੋਖ ਕਾ।",
+      "start_time": 175.451,
+      "end_time": 181.227
     },
     {
-      "title": "ਧਨੁ ਜੋਬਨੁ ਤੇਰਾ ਨਾਮੁ।",
       "section_id": "section-20",
-      "start_time": 181227,
-      "end_time": 186866,
-      "verified": true,
-      "line_id": "8U97"
+      "transcript": "ਧਨੁ ਜੋਬਨੁ ਤੇਰਾ ਨਾਮੁ।",
+      "start_time": 181.227,
+      "end_time": 186.866
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਪੈਨਣੁ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-21",
-      "start_time": 186866,
-      "end_time": 192594,
-      "verified": true,
-      "line_id": "JUPS"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਪੈਨਣੁ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 186.866,
+      "end_time": 192.594
     },
     {
-      "title": "ਜਿਤੁ ਪੈਧੈ ਤਨੁ ਪੀੜੀਐ।",
       "section_id": "section-22",
-      "start_time": 192594,
-      "end_time": 198069,
-      "verified": true,
-      "line_id": "SMQ6"
+      "transcript": "ਜਿਤੁ ਪੈਧੈ ਤਨੁ ਪੀੜੀਐ।",
+      "start_time": 192.594,
+      "end_time": 198.069
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ।",
       "section_id": "section-23",
-      "start_time": 198069,
-      "end_time": 203914,
-      "verified": true,
-      "line_id": "SMQ6"
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ।",
+      "start_time": 198.069,
+      "end_time": 203.914
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਪੈਨਣੁ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-24",
-      "start_time": 203914,
-      "end_time": 209576,
-      "verified": true,
-      "line_id": "JUPS"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਪੈਨਣੁ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 203.914,
+      "end_time": 209.576
     },
     {
-      "title": "ਜਿਤੁ ਪੈਧੈ ਤਨੁ ਪੀੜੀਐ।",
       "section_id": "section-25",
-      "start_time": 209576,
-      "end_time": 215009,
-      "verified": true,
-      "line_id": "SMQ6"
+      "transcript": "ਜਿਤੁ ਪੈਧੈ ਤਨੁ ਪੀੜੀਐ।",
+      "start_time": 209.576,
+      "end_time": 215.009
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
       "section_id": "section-26",
-      "start_time": 215009,
-      "end_time": 222246,
-      "verified": true,
-      "line_id": "ZQUV"
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
+      "start_time": 215.009,
+      "end_time": 222.246
     },
     {
-      "title": "ਘੋੜੇ ਪਾਖਰ ਸੁਇਨੇ ਸਾਖਤਿ।",
       "section_id": "section-27",
-      "start_time": 253905,
-      "end_time": 259559,
-      "verified": true,
-      "line_id": "FNNF"
+      "transcript": "ਘੋੜੇ ਪਾਖਰ ਸੁਇਨੇ ਸਾਖਤਿ।",
+      "start_time": 253.905,
+      "end_time": 259.559
     },
     {
-      "title": "ਬੂਝਣੁ ਤੇਰੀ ਵਾਟ।",
       "section_id": "section-28",
-      "start_time": 259559,
-      "end_time": 265313,
-      "verified": true,
-      "line_id": "FNNF"
+      "transcript": "ਬੂਝਣੁ ਤੇਰੀ ਵਾਟ।",
+      "start_time": 259.559,
+      "end_time": 265.313
     },
     {
-      "title": "ਤਰਕਸ ਤੀਰ ਕਮਾਣ ਸਾਂਗ।",
       "section_id": "section-29",
-      "start_time": 265313,
-      "end_time": 270726,
-      "verified": true,
-      "line_id": "R6CH"
+      "transcript": "ਤਰਕਸ ਤੀਰ ਕਮਾਣ ਸਾਂਗ।",
+      "start_time": 265.313,
+      "end_time": 270.726
     },
     {
-      "title": "ਤੇਗਬੰਦ ਗੁਣ ਧਾਤੁ।",
       "section_id": "section-30",
-      "start_time": 270910,
-      "end_time": 276565,
-      "verified": true,
-      "line_id": "R6CH"
+      "transcript": "ਤੇਗਬੰਦ ਗੁਣ ਧਾਤੁ।",
+      "start_time": 270.91,
+      "end_time": 276.565
     },
     {
-      "title": "ਵਾਜਾ ਨੇਜਾ ਪਤਿ ਸਿਉ ਪਰਗਟੁ।",
       "section_id": "section-31",
-      "start_time": 276565,
-      "end_time": 282216,
-      "verified": true,
-      "line_id": "PR73"
+      "transcript": "ਵਾਜਾ ਨੇਜਾ ਪਤਿ ਸਿਉ ਪਰਗਟੁ।",
+      "start_time": 276.565,
+      "end_time": 282.216
     },
     {
-      "title": "ਕਰਮੁ ਤੇਰਾ ਮੇਰੀ ਜਾਤਿ।",
       "section_id": "section-32",
-      "start_time": 282216,
-      "end_time": 287995,
-      "verified": true,
-      "line_id": "PR73"
+      "transcript": "ਕਰਮੁ ਤੇਰਾ ਮੇਰੀ ਜਾਤਿ।",
+      "start_time": 282.216,
+      "end_time": 287.995
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਚੜਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-33",
-      "start_time": 287995,
-      "end_time": 293680,
-      "verified": true,
-      "line_id": "NZGX"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਚੜਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 287.995,
+      "end_time": 293.68
     },
     {
-      "title": "ਜਿਤੁ ਚੜਿਐ ਤਨੁ ਪੀੜੀਐ।",
       "section_id": "section-34",
-      "start_time": 293680,
-      "end_time": 299311,
-      "verified": true,
-      "line_id": "68S6"
+      "transcript": "ਜਿਤੁ ਚੜਿਐ ਤਨੁ ਪੀੜੀਐ।",
+      "start_time": 293.68,
+      "end_time": 299.311
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ।",
       "section_id": "section-35",
-      "start_time": 299311,
-      "end_time": 305028,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ।",
+      "start_time": 299.311,
+      "end_time": 305.028
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਚੜਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-36",
-      "start_time": 305028,
-      "end_time": 310478,
-      "verified": true,
-      "line_id": "NZGX"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਚੜਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 305.028,
+      "end_time": 310.478
     },
     {
-      "title": "ਜਿਤੁ ਚੜਿਐ ਤਨੁ ਪੀੜੀਐ, ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
       "section_id": "section-37",
-      "start_time": 310494,
-      "end_time": 323754,
-      "verified": true,
-      "line_id": "ZQUV"
+      "transcript": "ਜਿਤੁ ਚੜਿਐ ਤਨੁ ਪੀੜੀਐ, ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
+      "start_time": 310.494,
+      "end_time": 323.754
     },
     {
-      "title": "ਘਰ ਮੰਦਰ ਖੁਸੀ ਨਾਮ ਕੀ।",
       "section_id": "section-38",
-      "start_time": 355592,
-      "end_time": 361030,
-      "verified": true,
-      "line_id": "RB70"
+      "transcript": "ਘਰ ਮੰਦਰ ਖੁਸੀ ਨਾਮ ਕੀ।",
+      "start_time": 355.592,
+      "end_time": 361.03
     },
     {
-      "title": "ਨਦਰਿ ਤੇਰੀ ਪਰਵਾਰੁ।",
       "section_id": "section-39",
-      "start_time": 361030,
-      "end_time": 366877,
-      "verified": true,
-      "line_id": "RB70"
+      "transcript": "ਨਦਰਿ ਤੇਰੀ ਪਰਵਾਰੁ।",
+      "start_time": 361.03,
+      "end_time": 366.877
     },
     {
-      "title": "ਹੁਕਮੁ ਸੋਈ ਤੁਧੁ ਭਾਵਸੀ।",
       "section_id": "section-40",
-      "start_time": 366877,
-      "end_time": 372055,
-      "verified": true,
-      "line_id": "TEUS"
+      "transcript": "ਹੁਕਮੁ ਸੋਈ ਤੁਧੁ ਭਾਵਸੀ।",
+      "start_time": 366.877,
+      "end_time": 372.055
     },
     {
-      "title": "ਹੋਰੁ ਆਖਣੁ ਬਹੁਤੁ ਅਪਾਰੁ।",
       "section_id": "section-41",
-      "start_time": 372055,
-      "end_time": 378196,
-      "verified": true,
-      "line_id": "TEUS"
+      "transcript": "ਹੋਰੁ ਆਖਣੁ ਬਹੁਤੁ ਅਪਾਰੁ।",
+      "start_time": 372.055,
+      "end_time": 378.196
     },
     {
-      "title": "ਨਾਨਕ ਸਚਾ ਪਾਤਿਸਾਹੁ।",
       "section_id": "section-42",
-      "start_time": 378196,
-      "end_time": 383818,
-      "verified": true,
-      "line_id": "1PDG"
+      "transcript": "ਨਾਨਕ ਸਚਾ ਪਾਤਿਸਾਹੁ।",
+      "start_time": 378.196,
+      "end_time": 383.818
     },
     {
-      "title": "ਪੂਛਿ ਨ ਕਰੇ ਬੀਚਾਰੁ।",
       "section_id": "section-43",
-      "start_time": 383818,
-      "end_time": 389488,
-      "verified": true,
-      "line_id": "XFMC"
+      "transcript": "ਪੂਛਿ ਨ ਕਰੇ ਬੀਚਾਰੁ।",
+      "start_time": 383.818,
+      "end_time": 389.488
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਸਉਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-44",
-      "start_time": 389488,
-      "end_time": 395180,
-      "verified": true,
-      "line_id": "68RC"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਸਉਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 389.488,
+      "end_time": 395.18
     },
     {
-      "title": "ਜਿਤੁ ਸੁਤੈ ਤਨੁ ਪੀੜੀਐ।",
       "section_id": "section-45",
-      "start_time": 395180,
-      "end_time": 400681,
-      "verified": true,
-      "line_id": "1M4Y"
+      "transcript": "ਜਿਤੁ ਸੁਤੈ ਤਨੁ ਪੀੜੀਐ।",
+      "start_time": 395.18,
+      "end_time": 400.681
     },
     {
-      "title": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ",
       "section_id": "section-46",
-      "start_time": 400681,
-      "end_time": 406451,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ",
+      "start_time": 400.681,
+      "end_time": 406.451
     },
     {
-      "title": "ਬਾਬਾ ਹੋਰੁ ਸਉਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
       "section_id": "section-47",
-      "start_time": 406451,
-      "end_time": 412099,
-      "verified": true,
-      "line_id": "68RC"
+      "transcript": "ਬਾਬਾ ਹੋਰੁ ਸਉਣਾ, ਖੁਸੀ ਖੁਆਰੁ।",
+      "start_time": 406.451,
+      "end_time": 412.099
     },
     {
-      "title": "ਜਿਤੁ ਸੁਤੈ ਤਨੁ ਪੀੜੀਐ, ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
       "section_id": "section-48",
-      "start_time": 412099,
-      "end_time": 424659,
-      "verified": true,
-      "line_id": "ZQUV"
+      "transcript": "ਜਿਤੁ ਸੁਤੈ ਤਨੁ ਪੀੜੀਐ, ਮਨ ਮਹਿ ਚਲਹਿ ਵਿਕਾਰ, ਰਹਾਉ।",
+      "start_time": 412.099,
+      "end_time": 424.659
     }
   ]
 }

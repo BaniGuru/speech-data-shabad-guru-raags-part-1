@@ -2,196 +2,148 @@
   "audio_file": "017 A Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 3031,
-      "end_time": 14045,
-      "verified": true,
-      "line_id": "7JXR"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 3.031,
+      "end_time": 14.045
     },
     {
-      "title": "ਘਰੁ ਦੂਜਾ।",
       "section_id": "section-2",
-      "start_time": 14045,
-      "end_time": 20871,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਘਰੁ ਦੂਜਾ।",
+      "start_time": 14.045,
+      "end_time": 20.871
     },
     {
-      "title": "ਧਨੁ ਜੋਬਨੁ ਅਰੁ ਫੁਲੜਾ",
       "section_id": "section-3",
-      "start_time": 34073,
-      "end_time": 39846,
-      "verified": true,
-      "line_id": "CLJC"
+      "transcript": "ਧਨੁ ਜੋਬਨੁ ਅਰੁ ਫੁਲੜਾ",
+      "start_time": 34.073,
+      "end_time": 39.846
     },
     {
-      "title": "ਨਾਠੀਅੜੇ ਦਿਨ ਚਾਰਿ",
       "section_id": "section-4",
-      "start_time": 39846,
-      "end_time": 45809,
-      "verified": true,
-      "line_id": "CLJC"
+      "transcript": "ਨਾਠੀਅੜੇ ਦਿਨ ਚਾਰਿ",
+      "start_time": 39.846,
+      "end_time": 45.809
     },
     {
-      "title": "ਪਬਣਿ ਕੇਰੇ ਪਤ ਜਿਉ",
       "section_id": "section-5",
-      "start_time": 45809,
-      "end_time": 51906,
-      "verified": true,
-      "line_id": "WTTY"
+      "transcript": "ਪਬਣਿ ਕੇਰੇ ਪਤ ਜਿਉ",
+      "start_time": 45.809,
+      "end_time": 51.906
     },
     {
-      "title": "ਢਲਿ ਢੁਲਿ ਜੁੰਮਣਹਾਰ",
       "section_id": "section-6",
-      "start_time": 51906,
-      "end_time": 57995,
-      "verified": true,
-      "line_id": "WTTY"
+      "transcript": "ਢਲਿ ਢੁਲਿ ਜੁੰਮਣਹਾਰ",
+      "start_time": 51.906,
+      "end_time": 57.995
     },
     {
-      "title": "ਰੰਗੁ ਮਾਣਿ ਲੈ ਪਿਆਰਿਆ",
       "section_id": "section-7",
-      "start_time": 57995,
-      "end_time": 63950,
-      "verified": true,
-      "line_id": "XBDK"
+      "transcript": "ਰੰਗੁ ਮਾਣਿ ਲੈ ਪਿਆਰਿਆ",
+      "start_time": 57.995,
+      "end_time": 63.95
     },
     {
-      "title": "ਜਾ ਜੋਬਨੁ ਨਉ ਹੁਲਾ",
       "section_id": "section-8",
-      "start_time": 63950,
-      "end_time": 69737,
-      "verified": true,
-      "line_id": "XBDK"
+      "transcript": "ਜਾ ਜੋਬਨੁ ਨਉ ਹੁਲਾ",
+      "start_time": 63.95,
+      "end_time": 69.737
     },
     {
-      "title": "ਦਿਨ ਥੋੜੜੇ ਥਕੇ",
       "section_id": "section-9",
-      "start_time": 69737,
-      "end_time": 75981,
-      "verified": true,
-      "line_id": "AKET"
+      "transcript": "ਦਿਨ ਥੋੜੜੇ ਥਕੇ",
+      "start_time": 69.737,
+      "end_time": 75.981
     },
     {
-      "title": "ਭਇਆ ਪੁਰਾਣਾ ਚੋਲਾ ਰਹਾਉ",
       "section_id": "section-10",
-      "start_time": 75981,
-      "end_time": 83930,
-      "verified": true,
-      "line_id": "AKET"
+      "transcript": "ਭਇਆ ਪੁਰਾਣਾ ਚੋਲਾ ਰਹਾਉ",
+      "start_time": 75.981,
+      "end_time": 83.93
     },
     {
-      "title": "ਸਜਣ ਮੇਰੇ ਰੰਗੁਲੇ",
       "section_id": "section-11",
-      "start_time": 88148,
-      "end_time": 94472,
-      "verified": true,
-      "line_id": "DLVJ"
+      "transcript": "ਸਜਣ ਮੇਰੇ ਰੰਗੁਲੇ",
+      "start_time": 88.148,
+      "end_time": 94.472
     },
     {
-      "title": "ਜਾਇ ਸੁਤੇ ਜੀਰਾਣਿ",
       "section_id": "section-12",
-      "start_time": 94472,
-      "end_time": 100643,
-      "verified": true,
-      "line_id": "DLVJ"
+      "transcript": "ਜਾਇ ਸੁਤੇ ਜੀਰਾਣਿ",
+      "start_time": 94.472,
+      "end_time": 100.643
     },
     {
-      "title": "ਹੰ ਭੀ ਵੰਞਾ ਡੁਮਣੀ",
       "section_id": "section-13",
-      "start_time": 100643,
-      "end_time": 106949,
-      "verified": true,
-      "line_id": "T48U"
+      "transcript": "ਹੰ ਭੀ ਵੰਞਾ ਡੁਮਣੀ",
+      "start_time": 100.643,
+      "end_time": 106.949
     },
     {
-      "title": "ਰੋਵਾ ਝੀਣੀ ਬਾਣਿ",
       "section_id": "section-14",
-      "start_time": 106949,
-      "end_time": 113361,
-      "verified": true,
-      "line_id": "T48U"
+      "transcript": "ਰੋਵਾ ਝੀਣੀ ਬਾਣਿ",
+      "start_time": 106.949,
+      "end_time": 113.361
     },
     {
-      "title": "ਕੀ ਨ ਸੁਣੇਹੀ ਗੋਰੀਏ",
       "section_id": "section-15",
-      "start_time": 119613,
-      "end_time": 125975,
-      "verified": true,
-      "line_id": "VN1F"
+      "transcript": "ਕੀ ਨ ਸੁਣੇਹੀ ਗੋਰੀਏ",
+      "start_time": 119.613,
+      "end_time": 125.975
     },
     {
-      "title": "ਆਪਣ ਕੰਨੀ ਸੋਇ",
       "section_id": "section-16",
-      "start_time": 125975,
-      "end_time": 132410,
-      "verified": true,
-      "line_id": "VN1F"
+      "transcript": "ਆਪਣ ਕੰਨੀ ਸੋਇ",
+      "start_time": 125.975,
+      "end_time": 132.41
     },
     {
-      "title": "ਲਗੀ ਆਵਹਿ ਸਾਹੁਰੈ",
       "section_id": "section-17",
-      "start_time": 132410,
-      "end_time": 138749,
-      "verified": true,
-      "line_id": "81ZJ"
+      "transcript": "ਲਗੀ ਆਵਹਿ ਸਾਹੁਰੈ",
+      "start_time": 132.41,
+      "end_time": 138.749
     },
     {
-      "title": "ਨਿਤ ਨ ਪੇਈਆ ਹੋਇ।",
       "section_id": "section-18",
-      "start_time": 138749,
-      "end_time": 145504,
-      "verified": true,
-      "line_id": "81ZJ"
+      "transcript": "ਨਿਤ ਨ ਪੇਈਆ ਹੋਇ।",
+      "start_time": 138.749,
+      "end_time": 145.504
     },
     {
-      "title": "ਨਾਨਕ ਸੁਤੀ ਪੇਈਐ",
       "section_id": "section-19",
-      "start_time": 152306,
-      "end_time": 159268,
-      "verified": true,
-      "line_id": "LEBS"
+      "transcript": "ਨਾਨਕ ਸੁਤੀ ਪੇਈਐ",
+      "start_time": 152.306,
+      "end_time": 159.268
     },
     {
-      "title": "ਜਾਣੁ ਵਿਰਤੀ ਸੰਨਿ",
       "section_id": "section-20",
-      "start_time": 159268,
-      "end_time": 166089,
-      "verified": true,
-      "line_id": "LEBS"
+      "transcript": "ਜਾਣੁ ਵਿਰਤੀ ਸੰਨਿ",
+      "start_time": 159.268,
+      "end_time": 166.089
     },
     {
-      "title": "ਗੁਣਾ ਗਵਾਈ ਗੰਠੜੀ",
       "section_id": "section-21",
-      "start_time": 166089,
-      "end_time": 173047,
-      "verified": true,
-      "line_id": "ZPJL"
+      "transcript": "ਗੁਣਾ ਗਵਾਈ ਗੰਠੜੀ",
+      "start_time": 166.089,
+      "end_time": 173.047
     },
     {
-      "title": "ਅਵਗਣ ਚਲੀ ਬੰਨਿ।",
       "section_id": "section-22",
-      "start_time": 173047,
-      "end_time": 179983,
-      "verified": true,
-      "line_id": "ZPJL"
+      "transcript": "ਅਵਗਣ ਚਲੀ ਬੰਨਿ।",
+      "start_time": 173.047,
+      "end_time": 179.983
     },
     {
-      "title": "ਗੁਣਾ ਗਵਾਈ ਗੰਠੜੀ।",
       "section_id": "section-23",
-      "start_time": 193766,
-      "end_time": 200814,
-      "verified": true,
-      "line_id": "ZPJL"
+      "transcript": "ਗੁਣਾ ਗਵਾਈ ਗੰਠੜੀ।",
+      "start_time": 193.766,
+      "end_time": 200.814
     },
     {
-      "title": "ਅਵਗਣ ਚਲੀ ਬੰਨਿ",
       "section_id": "section-24",
-      "start_time": 200814,
-      "end_time": 208335,
-      "verified": true,
-      "line_id": "ZPJL"
+      "transcript": "ਅਵਗਣ ਚਲੀ ਬੰਨਿ",
+      "start_time": 200.814,
+      "end_time": 208.335
     }
   ]
 }

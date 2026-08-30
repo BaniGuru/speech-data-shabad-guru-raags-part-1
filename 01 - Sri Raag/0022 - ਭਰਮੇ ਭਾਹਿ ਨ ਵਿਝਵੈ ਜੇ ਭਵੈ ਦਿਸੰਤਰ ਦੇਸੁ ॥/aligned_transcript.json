@@ -2,244 +2,184 @@
   "audio_file": "016 B Pb.mp3",
   "sections": [
     {
-      "title": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
       "section_id": "section-1",
-      "start_time": 722,
-      "end_time": 15392,
-      "verified": true,
-      "line_id": "5LAQ"
+      "transcript": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ਪਹਿਲਾ",
+      "start_time": 0.722,
+      "end_time": 15.392
     },
     {
-      "title": "ਭਰਮੇ ਭਾਹਿ ਨ ਵਿਝਵੈ।",
       "section_id": "section-2",
-      "start_time": 29160,
-      "end_time": 34766,
-      "verified": true,
-      "line_id": "7AQH"
+      "transcript": "ਭਰਮੇ ਭਾਹਿ ਨ ਵਿਝਵੈ।",
+      "start_time": 29.16,
+      "end_time": 34.766
     },
     {
-      "title": "ਜੇ ਭਵੈ ਦਿਸੰਤਰ ਦੇਸੁ।",
       "section_id": "section-3",
-      "start_time": 34766,
-      "end_time": 40928,
-      "verified": true,
-      "line_id": "7AQH"
+      "transcript": "ਜੇ ਭਵੈ ਦਿਸੰਤਰ ਦੇਸੁ।",
+      "start_time": 34.766,
+      "end_time": 40.928
     },
     {
-      "title": "ਅੰਤਰਿ ਮੈਲੁ ਨ ਉਤਰੈ",
       "section_id": "section-4",
-      "start_time": 40928,
-      "end_time": 46944,
-      "verified": true,
-      "line_id": "JBF5"
+      "transcript": "ਅੰਤਰਿ ਮੈਲੁ ਨ ਉਤਰੈ",
+      "start_time": 40.928,
+      "end_time": 46.944
     },
     {
-      "title": "ਧ੍ਰਿਗੁ ਜੀਵਣੁ ਧ੍ਰਿਗੁ ਵੇਸੁ",
       "section_id": "section-5",
-      "start_time": 46944,
-      "end_time": 52725,
-      "verified": true,
-      "line_id": "JBF5"
+      "transcript": "ਧ੍ਰਿਗੁ ਜੀਵਣੁ ਧ੍ਰਿਗੁ ਵੇਸੁ",
+      "start_time": 46.944,
+      "end_time": 52.725
     },
     {
-      "title": "ਹੋਰੁ ਕਿਤੈ ਭਗਤਿ ਨ ਹੋਵਈ",
       "section_id": "section-6",
-      "start_time": 52725,
-      "end_time": 58436,
-      "verified": true,
-      "line_id": "5YYH"
+      "transcript": "ਹੋਰੁ ਕਿਤੈ ਭਗਤਿ ਨ ਹੋਵਈ",
+      "start_time": 52.725,
+      "end_time": 58.436
     },
     {
-      "title": "ਬਿਨੁ ਸਤਿਗੁਰ ਕੇ ਉਪਦੇਸ",
       "section_id": "section-7",
-      "start_time": 58436,
-      "end_time": 64738,
-      "verified": true,
-      "line_id": "5YYH"
+      "transcript": "ਬਿਨੁ ਸਤਿਗੁਰ ਕੇ ਉਪਦੇਸ",
+      "start_time": 58.436,
+      "end_time": 64.738
     },
     {
-      "title": "ਮਨ ਰੇ, ਗੁਰਮੁਖਿ ਅਗਨਿ ਨਿਵਾਰਿ।",
       "section_id": "section-8",
-      "start_time": 64738,
-      "end_time": 76416,
-      "verified": true,
-      "line_id": "YJJV"
+      "transcript": "ਮਨ ਰੇ, ਗੁਰਮੁਖਿ ਅਗਨਿ ਨਿਵਾਰਿ।",
+      "start_time": 64.738,
+      "end_time": 76.416
     },
     {
-      "title": "ਗੁਰ ਕਾ ਕਹਿਆ ਮਨਿ ਵਸੈ",
       "section_id": "section-9",
-      "start_time": 76416,
-      "end_time": 82189,
-      "verified": true,
-      "line_id": "D8ZW"
+      "transcript": "ਗੁਰ ਕਾ ਕਹਿਆ ਮਨਿ ਵਸੈ",
+      "start_time": 76.416,
+      "end_time": 82.189
     },
     {
-      "title": "ਹਉਮੈ ਤ੍ਰਿਸਨਾ ਮਾਰਿ ਰਹਾਉ",
       "section_id": "section-10",
-      "start_time": 82189,
-      "end_time": 89915,
-      "verified": true,
-      "line_id": "D8ZW"
+      "transcript": "ਹਉਮੈ ਤ੍ਰਿਸਨਾ ਮਾਰਿ ਰਹਾਉ",
+      "start_time": 82.189,
+      "end_time": 89.915
     },
     {
-      "title": "ਮਨੁ ਮਾਣਕੁ ਨਿਰਮੋਲੁ ਹੈ",
       "section_id": "section-11",
-      "start_time": 93966,
-      "end_time": 99792,
-      "verified": true,
-      "line_id": "YQT5"
+      "transcript": "ਮਨੁ ਮਾਣਕੁ ਨਿਰਮੋਲੁ ਹੈ",
+      "start_time": 93.966,
+      "end_time": 99.792
     },
     {
-      "title": "ਰਾਮ ਨਾਮਿ ਪਤਿ ਪਾਇ",
       "section_id": "section-12",
-      "start_time": 99792,
-      "end_time": 105549,
-      "verified": true,
-      "line_id": "YQT5"
+      "transcript": "ਰਾਮ ਨਾਮਿ ਪਤਿ ਪਾਇ",
+      "start_time": 99.792,
+      "end_time": 105.549
     },
     {
-      "title": "ਮਿਲਿ ਸਤਸੰਗਤਿ ਹਰਿ ਪਾਈਐ",
       "section_id": "section-13",
-      "start_time": 105549,
-      "end_time": 111524,
-      "verified": true,
-      "line_id": "6YSE"
+      "transcript": "ਮਿਲਿ ਸਤਸੰਗਤਿ ਹਰਿ ਪਾਈਐ",
+      "start_time": 105.549,
+      "end_time": 111.524
     },
     {
-      "title": "ਗੁਰਮੁਖਿ ਹਰਿ ਲਿਵ ਲਾਇ",
       "section_id": "section-14",
-      "start_time": 111524,
-      "end_time": 117366,
-      "verified": true,
-      "line_id": "6YSE"
+      "transcript": "ਗੁਰਮੁਖਿ ਹਰਿ ਲਿਵ ਲਾਇ",
+      "start_time": 111.524,
+      "end_time": 117.366
     },
     {
-      "title": "ਆਪੁ ਗਇਆ ਸੁਖੁ ਪਾਇਆ",
       "section_id": "section-15",
-      "start_time": 117366,
-      "end_time": 122755,
-      "verified": true,
-      "line_id": "L04A"
+      "transcript": "ਆਪੁ ਗਇਆ ਸੁਖੁ ਪਾਇਆ",
+      "start_time": 117.366,
+      "end_time": 122.755
     },
     {
-      "title": "ਮਿਲਿ ਸਲਲੈ ਸਲਲ ਸਮਾਇ।",
       "section_id": "section-16",
-      "start_time": 122755,
-      "end_time": 128962,
-      "verified": true,
-      "line_id": "L04A"
+      "transcript": "ਮਿਲਿ ਸਲਲੈ ਸਲਲ ਸਮਾਇ।",
+      "start_time": 122.755,
+      "end_time": 128.962
     },
     {
-      "title": "ਜਿਨਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ।",
       "section_id": "section-17",
-      "start_time": 134396,
-      "end_time": 140365,
-      "verified": true,
-      "line_id": "R5JW"
+      "transcript": "ਜਿਨਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ।",
+      "start_time": 134.396,
+      "end_time": 140.365
     },
     {
-      "title": "ਸੁ ਅਉਗੁਣਿ ਆਵੈ ਜਾਇ।",
       "section_id": "section-18",
-      "start_time": 140365,
-      "end_time": 146109,
-      "verified": true,
-      "line_id": "R5JW"
+      "transcript": "ਸੁ ਅਉਗੁਣਿ ਆਵੈ ਜਾਇ।",
+      "start_time": 140.365,
+      "end_time": 146.109
     },
     {
-      "title": "ਜਿਸੁ ਸਤਗੁਰੁ ਪੁਰਖੁ ਨ ਭੇਟਿਓ।",
       "section_id": "section-19",
-      "start_time": 146109,
-      "end_time": 151883,
-      "verified": true,
-      "line_id": "2DZD"
+      "transcript": "ਜਿਸੁ ਸਤਗੁਰੁ ਪੁਰਖੁ ਨ ਭੇਟਿਓ।",
+      "start_time": 146.109,
+      "end_time": 151.883
     },
     {
-      "title": "ਸੁ ਭਉਜਲਿ ਪਚੈ ਪਚਾਇ।",
       "section_id": "section-20",
-      "start_time": 151883,
-      "end_time": 157385,
-      "verified": true,
-      "line_id": "2DZD"
+      "transcript": "ਸੁ ਭਉਜਲਿ ਪਚੈ ਪਚਾਇ।",
+      "start_time": 151.883,
+      "end_time": 157.385
     },
     {
-      "title": "ਇਹੁ ਮਾਣਕੁ ਜੀਉ ਨਿਰਮੋਲੁ ਹੈ।",
       "section_id": "section-21",
-      "start_time": 157385,
-      "end_time": 163206,
-      "verified": true,
-      "line_id": "CS5G"
+      "transcript": "ਇਹੁ ਮਾਣਕੁ ਜੀਉ ਨਿਰਮੋਲੁ ਹੈ।",
+      "start_time": 157.385,
+      "end_time": 163.206
     },
     {
-      "title": "ਇਉ ਕਉਡੀ ਬਦਲੈ ਜਾਇ।",
       "section_id": "section-22",
-      "start_time": 163206,
-      "end_time": 169221,
-      "verified": true,
-      "line_id": "CS5G"
+      "transcript": "ਇਉ ਕਉਡੀ ਬਦਲੈ ਜਾਇ।",
+      "start_time": 163.206,
+      "end_time": 169.221
     },
     {
-      "title": "ਜਿੰਨਾ ਸਤਗੁਰੁ ਰਸਿ ਮਿਲੈ।",
       "section_id": "section-23",
-      "start_time": 174972,
-      "end_time": 180815,
-      "verified": true,
-      "line_id": "917S"
+      "transcript": "ਜਿੰਨਾ ਸਤਗੁਰੁ ਰਸਿ ਮਿਲੈ।",
+      "start_time": 174.972,
+      "end_time": 180.815
     },
     {
-      "title": "ਸੇ ਪੂਰੇ ਪੁਰਖ ਸੁਜਾਣ।",
       "section_id": "section-24",
-      "start_time": 180815,
-      "end_time": 186399,
-      "verified": true,
-      "line_id": null
+      "transcript": "ਸੇ ਪੂਰੇ ਪੁਰਖ ਸੁਜਾਣ।",
+      "start_time": 180.815,
+      "end_time": 186.399
     },
     {
-      "title": "ਗੁਰ ਮਿਲਿ ਭਉਜਲੁ ਲੰਘੀਐ।",
       "section_id": "section-25",
-      "start_time": 186399,
-      "end_time": 192201,
-      "verified": true,
-      "line_id": "UJFZ"
+      "transcript": "ਗੁਰ ਮਿਲਿ ਭਉਜਲੁ ਲੰਘੀਐ।",
+      "start_time": 186.399,
+      "end_time": 192.201
     },
     {
-      "title": "ਦਰਗਹ ਪਤਿ ਪਰਵਾਣੁ।",
       "section_id": "section-26",
-      "start_time": 192201,
-      "end_time": 197856,
-      "verified": true,
-      "line_id": "DPZH"
+      "transcript": "ਦਰਗਹ ਪਤਿ ਪਰਵਾਣੁ।",
+      "start_time": 192.201,
+      "end_time": 197.856
     },
     {
-      "title": "ਨਾਨਕ ਤੇ ਮੁਖ ਉਜਲੇ।",
       "section_id": "section-27",
-      "start_time": 197856,
-      "end_time": 203411,
-      "verified": true,
-      "line_id": "9WAL"
+      "transcript": "ਨਾਨਕ ਤੇ ਮੁਖ ਉਜਲੇ।",
+      "start_time": 197.856,
+      "end_time": 203.411
     },
     {
-      "title": "ਧੁਨਿ ਉਪਜੈ ਸਬਦੁ ਨੀਸਾਣੁ।",
       "section_id": "section-28",
-      "start_time": 203411,
-      "end_time": 209458,
-      "verified": true,
-      "line_id": "UV9S"
+      "transcript": "ਧੁਨਿ ਉਪਜੈ ਸਬਦੁ ਨੀਸਾਣੁ।",
+      "start_time": 203.411,
+      "end_time": 209.458
     },
     {
-      "title": "ਨਾਨਕ ਤੇ ਮੁਖ ਉਜਲੇ।",
       "section_id": "section-29",
-      "start_time": 221074,
-      "end_time": 226426,
-      "verified": true,
-      "line_id": "9WAL"
+      "transcript": "ਨਾਨਕ ਤੇ ਮੁਖ ਉਜਲੇ।",
+      "start_time": 221.074,
+      "end_time": 226.426
     },
     {
-      "title": "ਧੁਨਿ ਉਪਜੈ ਸਬਦੁ ਨੀਸਾਣੁ।",
       "section_id": "section-30",
-      "start_time": 226426,
-      "end_time": 233915,
-      "verified": true,
-      "line_id": "UV9S"
+      "transcript": "ਧੁਨਿ ਉਪਜੈ ਸਬਦੁ ਨੀਸਾਣੁ।",
+      "start_time": 226.426,
+      "end_time": 233.915
     }
   ]
 }
